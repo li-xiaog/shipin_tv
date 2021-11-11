@@ -1,906 +1,452 @@
 电视剧,#genre#
 
-十八岁的天空_bli,https://live.bilibili.com/live-bvc/724156/live_1461952541_14060200.m3u8
-
 十八岁的天空_bli,http://192.168.0.113:12345/bilibili/23780991
-
-上错花轿嫁对郎_bli,https://live.bilibili.com/live-bvc/828728/live_84255891_4675879.m3u8
 
 上错花轿嫁对郎_bli,http://192.168.0.113:12345/bilibili/7787751
 
 万合天宜_dou2yu,http://dyscdnali1.douyucdn.cn/live/9220456rWD2OR7uF.flv?uuid=
 
-万合天宜_dou2yu,http://192.168.0.113:12345/douyu/9220456
+我是大哥大_hu1ya,http://tx.flv.huya.com/src/1199560287662-1199560287662-5430608523677401088-2399120698780-10057-A-0-1.flv?wsSecret=4943b464836d5224261fb6d6b236c2e9&wsTime=618e70e7&uid=0&seqid=16366385685647132&ctype=tars_mobile&ver=1&t=103
 
-我是大哥大_hu1ya,http://tx.flv.huya.com/src/1199560287662-1199560287662-5430608523677401088-2399120698780-10057-A-0-1.flv?wsSecret=5a760c5575a568011dd1dd85a9aa05ec&wsTime=618d081f&uid=0&seqid=16365462081175774&ctype=tars_mobile&ver=1&t=103
+电视剧_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37999586_37999586_0_0_0-15013_xa_37999586_37999586_0_0_0.m3u8?org=yyweb&uuid=c909311afd5e415a97e0ae5203f7bd79&t=1636638568&tk=fb1e27f7010e7cf5929ef12e6dc793c1
 
-我是大哥大_hu1ya,http://192.168.0.113:12345/huya/23652317
-
-电视剧_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37999586_37999586_0_0_0-15013_xa_37999586_37999586_0_0_0.m3u8?org=yyweb&uuid=881d7e692ef94c5d8a6ec23dfcea3e15&t=1636546207&tk=53a5ef0654139703074bdbda601ffdde
-
-电视剧_YY,http://192.168.0.113:12345/yy/37999586
-
-欢天喜地七仙女1_bli,https://live.bilibili.com/live-bvc/704685/live_18344686_4573631.m3u8
-
-欢天喜地七仙女1_bli,http://192.168.0.113:12345/bilibili/4460741
-
-僵尸道长1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1450444115_1450444115_0_0_0-15013_xa_1450444115_1450444115_0_0_0.m3u8?org=yyweb&uuid=b16a6b4d06cd4adf9e526708da509f98&t=1636546209&tk=d808b8f0734c842be5d932b3efad9e98
-
-僵尸道长1_YY,http://192.168.0.113:12345/yy/1450444115
-
-少年包青天1_bli,https://live.bilibili.com/live-bvc/254330/live_222430771_6042974.m3u8
+僵尸道长1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1450444115_1450444115_0_0_0-15013_xa_1450444115_1450444115_0_0_0.m3u8?org=yyweb&uuid=6a98a4419e2944729b73172d1dcfbf8b&t=1636638569&tk=66a1fa813121c9e5b5d466e2a3fc49d2
 
 少年包青天1_bli,http://192.168.0.113:12345/bilibili/8566972
 
-少年包青天2_bli,https://live.bilibili.com/live-bvc/391032/live_170879515_8960150.m3u8
-
 少年包青天2_bli,http://192.168.0.113:12345/bilibili/4928767
-
-少年包青天3_bli,https://live.bilibili.com/live-bvc/356897/live_47298021_1601001.m3u8
 
 少年包青天3_bli,http://192.168.0.113:12345/bilibili/2803563
 
-少年包青天4_bli,https://live.bilibili.com/live-bvc/965165/live_686936960_52110103.m3u8
-
 少年包青天4_bli,http://192.168.0.113:12345/bilibili/23145747
-
-少年包青天5_bli,https://live.bilibili.com/live-bvc/416866/live_10879172_22289664.m3u8
 
 少年包青天5_bli,http://192.168.0.113:12345/bilibili/23220264
 
-少年包青天_hu1ya,http://tx.flv.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.flv?wsSecret=949c9c2c3730e09df7a4a13a690503a0&wsTime=618d081a&uid=0&seqid=16365462141400402&ctype=tars_mobile&ver=1&t=103
+少年包青天_hu1ya,http://tx.flv.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.flv?wsSecret=c12f301165ac4ea79918f6a761210813&wsTime=618e70ec&uid=0&seqid=16366385737423676&ctype=tars_mobile&ver=1&t=103
 
-少年包青天_hu1ya,http://192.168.0.113:12345/huya/11342393
+少年包青天_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_23055599_23055599_0_0_0-15013_xa_23055599_23055599_0_0_0.m3u8?org=yyweb&uuid=75d9d44c594244dfa29505f423fa3cda&t=1636638573&tk=1eaaaca627bc5da5421de86c96ee1d72
 
-少年包青天_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_23055599_23055599_0_0_0-15013_xa_23055599_23055599_0_0_0.m3u8?org=yyweb&uuid=9252348c62404df085ea3a95275a39e8&t=1636546214&tk=35b6b162651ef2dfd16749aba7e402f1
+士兵突击1_bli,http://192.168.0.113:12345/bilibili/6166099
 
-少年包青天_YY,http://192.168.0.113:12345/yy/23055599
-
-士兵突击1_hu1ya,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=6d195840735933ca89906f1c5e175b41&wsTime=618d0814&uid=0&seqid=16365462152427152&ctype=tars_mobile&ver=1&t=103
-
-士兵突击1_hu1ya,http://192.168.0.113:12345/huya/11342430
-
-重案六组1_bli,https://live.bilibili.com/live-bvc/597718/live_387960487_4991264.m3u8
+士兵突击1_hu1ya,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=114361165d1bab0fc00e3c15334bf71d&wsTime=618e70ed&uid=0&seqid=16366385750621054&ctype=tars_mobile&ver=1&t=103
 
 重案六组1_bli,http://192.168.0.113:12345/bilibili/15131066
 
-康熙微服私访记_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=7a4b1fa8dbcf3c6cf4e930a9420b40be&wsTime=618d0818&uid=0&seqid=16365462161955306&ctype=tars_mobile&ver=1&t=103
+康熙微服私访记_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=851b384b20a8a0dbfaabcb702cc30c50&wsTime=618e70da&uid=0&seqid=16366385756950026&ctype=tars_mobile&ver=1&t=103
 
-康熙微服私访记_hu1ya,http://192.168.0.113:12345/huya/11342418
-
-亮剑1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_32110908_32110908_0_0_0-15013_xa_32110908_32110908_0_0_0.m3u8?org=yyweb&uuid=1f0fe57d05cd42feb376ff0b93a0b4f9&t=1636546216&tk=d448b231f22a0dec9cc0efb0c6b2a7ff
-
-亮剑1_YY,http://192.168.0.113:12345/yy/32110908
+亮剑1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_32110908_32110908_0_0_0-15013_xa_32110908_32110908_0_0_0.m3u8?org=yyweb&uuid=3462d55ff5a74f208cb617ca13a2b54a&t=1636638575&tk=d20fee3f55887dcb8db680a391973dc5
 
 倚天屠龙记_dou2yu,http://dyscdnali1.douyucdn.cn/live/6079455rViMbqGQd.flv?uuid=
-
-倚天屠龙记_dou2yu,http://192.168.0.113:12345/douyu/6079455
-
-倚天屠龙记1_bli,https://live.bilibili.com/live-bvc/669078/live_379022229_4954242.m3u8
-
-倚天屠龙记1_bli,http://192.168.0.113:12345/bilibili/14262592
-
-电视剧1_bli,https://live.bilibili.com/live-bvc/939271/live_39714487_49119132.m3u8
 
 电视剧1_bli,http://192.168.0.113:12345/bilibili/23331776
 
 电视剧1_dou2yu,http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
 
-电视剧1_dou2yu,http://192.168.0.113:12345/douyu/4549169
-
 电视剧2_dou2yu,http://dyscdnali1.douyucdn.cn/live/7136517roOiUYzKy.flv?uuid=
-
-电视剧2_dou2yu,http://192.168.0.113:12345/douyu/7136517
 
 电视剧3_dou2yu,http://dyscdnali1.douyucdn.cn/live/338759rDXMBm2Z4d.flv?uuid=
 
-电视剧3_dou2yu,http://192.168.0.113:12345/douyu/338759
-
 电视剧4_dou2yu,http://dyscdnali1.douyucdn.cn/live/223521r9iOJY5Aor.flv?uuid=
-
-电视剧4_dou2yu,http://192.168.0.113:12345/douyu/223521
 
 电视剧5_dou2yu,http://dyscdnali1.douyucdn.cn/live/5448413rgMdN7PHe.flv?uuid=
 
-电视剧5_dou2yu,http://192.168.0.113:12345/douyu/5448413
-
 仙剑奇侠传3_dou2yu,http://dyscdnali1.douyucdn.cn/live/7270927rda9JWqm8.flv?uuid=
 
-仙剑奇侠传3_dou2yu,http://192.168.0.113:12345/douyu/7270927
-
-神医喜来乐_hu1ya,http://tx.flv.huya.com/huyalive/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.flv?wsSecret=11a4921f310af5ab976b53498077f5cb&wsTime=618d0828&uid=0&seqid=16365462229911378&ctype=tars_mobile&ver=1&t=103
-
-神医喜来乐_hu1ya,http://192.168.0.113:12345/huya/11601978
+神医喜来乐_hu1ya,http://tx.flv.huya.com/huyalive/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.flv?wsSecret=7fe0630f1b12df523a2b420d753c71fd&wsTime=618e70e4&uid=0&seqid=16366385811371126&ctype=tars_mobile&ver=1&t=103
 
 电影,#genre#
 
-电影1_bli,https://live.bilibili.com/live-bvc/663095/live_416544064_58389145.m3u8
-
 电影1_bli,http://192.168.0.113:12345/bilibili/21377115
-
-电影2_bli,https://live.bilibili.com/live-bvc/276658/live_362963326_14864388.m3u8
 
 电影2_bli,http://192.168.0.113:12345/bilibili/21680912
 
-电影3_bli,https://live.bilibili.com/live-bvc/935801/live_22989278_9714011.m3u8
-
 电影3_bli,http://192.168.0.113:12345/bilibili/70155
 
-电影5_bli,https://live.bilibili.com/live-bvc/731130/live_400392_6822511.m3u8
+电影4_bli,http://192.168.0.113:12345/bilibili/82997
 
 电影5_bli,http://192.168.0.113:12345/bilibili/6827037
 
-电影6_bli,https://live.bilibili.com/live-bvc/375346/live_14659392_8620418.m3u8
-
 电影6_bli,http://192.168.0.113:12345/bilibili/47917
-
-电影7_bli,https://live.bilibili.com/live-bvc/809020/live_102569357_4797059.m3u8
 
 电影7_bli,http://192.168.0.113:12345/bilibili/5226265
 
-电影9_bli,https://live.bilibili.com/live-bvc/492231/live_420351661_73320656.m3u8
-
 电影9_bli,http://192.168.0.113:12345/bilibili/21448296
-
-电影12_bli,https://live.bilibili.com/live-bvc/723288/live_252582133_1552126.m3u8
 
 电影12_bli,http://192.168.0.113:12345/bilibili/6837959
 
 电影1_dou2yu,http://dyscdnali1.douyucdn.cn/live/52787rEKyx5UJA7E.flv?uuid=
 
-电影1_dou2yu,http://192.168.0.113:12345/douyu/52787
-
 电影2_dou2yu,http://dyscdnali1.douyucdn.cn/live/7254536rKDaIv9MI.flv?uuid=
-
-电影2_dou2yu,http://192.168.0.113:12345/douyu/7254536
 
 电影3_dou2yu,http://dyscdnali1.douyucdn.cn/live/1504768rKwFbrbxC.flv?uuid=
 
-电影3_dou2yu,http://192.168.0.113:12345/douyu/1504768
-
 电影4_dou2yu,http://dyscdnali1.douyucdn.cn/live/8756805rOfgEgygO.flv?uuid=
-
-电影4_dou2yu,http://192.168.0.113:12345/douyu/8756805
 
 电影5_dou2yu,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 
-电影5_dou2yu,http://192.168.0.113:12345/douyu/3637778
-
 电影6_dou2yu,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-
-电影6_dou2yu,http://192.168.0.113:12345/douyu/122402
 
 电影7_dou2yu,http://dyscdnali1.douyucdn.cn/live/252802rQOL4akKz2.flv?uuid=
 
-电影7_dou2yu,http://192.168.0.113:12345/douyu/252802
-
 电影8_dou2yu,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-
-电影8_dou2yu,http://192.168.0.113:12345/douyu/85894
 
 电影9_dou2yu,http://dyscdnali1.douyucdn.cn/live/96577r2GlkQkSAeM.flv?uuid=
 
-电影9_dou2yu,http://192.168.0.113:12345/douyu/96577
-
 电影13_dou2yu,http://dyscdnali1.douyucdn.cn/live/1409682rXJFmNzWT.flv?uuid=
-
-电影13_dou2yu,http://192.168.0.113:12345/douyu/1409682
 
 电影14_dou2yu,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 
-电影14_dou2yu,http://192.168.0.113:12345/douyu/3637765
-
 电影15_dou2yu,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
-
-电影15_dou2yu,http://192.168.0.113:12345/douyu/747764
 
 电影16_dou2yu,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
 
-电影16_dou2yu,http://192.168.0.113:12345/douyu/3637726
-
-电影17_dou2yu,http://dyscdnali1.douyucdn.cn/live/8985119r4hBo1FzP.flv?uuid=
-
-电影17_dou2yu,http://192.168.0.113:12345/douyu/8985119
-
 电影18_dou2yu,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-
-电影18_dou2yu,http://192.168.0.113:12345/douyu/3928
 
 电影19_dou2yu,http://dyscdnali1.douyucdn.cn/live/4332r2mrBM7tt0Cn.flv?uuid=
 
-电影19_dou2yu,http://192.168.0.113:12345/douyu/4332
-
 电影20_dou2yu,http://dyscdnali1.douyucdn.cn/live/6566658rreThZ6qH.flv?uuid=
-
-电影20_dou2yu,http://192.168.0.113:12345/douyu/6566658
 
 电影21_dou2yu,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 
-电影21_dou2yu,http://192.168.0.113:12345/douyu/20415
-
 电影22_dou2yu,http://dyscdnali1.douyucdn.cn/live/8861179raoD6Yxv8.flv?uuid=
-
-电影22_dou2yu,http://192.168.0.113:12345/douyu/8861179
 
 电影25_dou2yu,http://dyscdnali1.douyucdn.cn/live/315457rtOkUP9dtx.flv?uuid=
 
-电影25_dou2yu,http://192.168.0.113:12345/douyu/315457
-
 电影27_dou2yu,http://dyscdnali1.douyucdn.cn/live/248753rz50pe6jOK.flv?uuid=
-
-电影27_dou2yu,http://192.168.0.113:12345/douyu/248753
 
 电影28_dou2yu,http://dyscdnali1.douyucdn.cn/live/9275635rhxaWUwPn.flv?uuid=
 
-电影28_dou2yu,http://192.168.0.113:12345/douyu/9275635
-
 电影29_dou2yu,http://dyscdnali1.douyucdn.cn/live/7842226rcFPGEwOg.flv?uuid=
-
-电影29_dou2yu,http://192.168.0.113:12345/douyu/7842226
 
 电影30_dou2yu,http://dyscdnali1.douyucdn.cn/live/5423rsLumTFKkOJN.flv?uuid=
 
-电影30_dou2yu,http://192.168.0.113:12345/douyu/5423
-
 电影31_dou2yu,http://dyscdnali1.douyucdn.cn/live/8921999rkpvcLyWU.flv?uuid=
 
-电影31_dou2yu,http://192.168.0.113:12345/douyu/8921999
-
-电影32_dou2yu,http://dyscdnali1.douyucdn.cn/live/7925840rUoWDmoX7.flv?uuid=
-
-电影32_dou2yu,http://192.168.0.113:12345/douyu/7925840
+电影32_dou2yu,http://dyscdnali1.douyucdn.cn/live/7925840rrv8wsjRB.flv?uuid=
 
 电影34_dou2yu,http://dyscdnali1.douyucdn.cn/live/5129261rT08VLhU6.flv?uuid=
 
-电影34_dou2yu,http://192.168.0.113:12345/douyu/5129261
-
 电影35_dou2yu,http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid=
-
-电影35_dou2yu,http://192.168.0.113:12345/douyu/6763930
 
 电影37_dou2yu,http://dyscdnali1.douyucdn.cn/live/508118rpmYlOM5gQ.flv?uuid=
 
-电影37_dou2yu,http://192.168.0.113:12345/douyu/508118
-
 电影39_dou2yu,http://dyscdnali1.douyucdn.cn/live/8791622r6XjTAFwu.flv?uuid=
-
-电影39_dou2yu,http://192.168.0.113:12345/douyu/8791622
 
 电影40_dou2yu,http://dyscdnali1.douyucdn.cn/live/5503962ru4xi3lvi.flv?uuid=
 
-电影40_dou2yu,http://192.168.0.113:12345/douyu/5503962
-
 电影41_dou2yu,http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
-
-电影41_dou2yu,http://192.168.0.113:12345/douyu/323876
 
 电影43_dou2yu,http://dyscdnali1.douyucdn.cn/live/263824rvcnE5WlGq.flv?uuid=
 
-电影43_dou2yu,http://192.168.0.113:12345/douyu/263824
-
 电影44_dou2yu,http://dyscdnali1.douyucdn.cn/live/2935323rxVXxNQ1b.flv?uuid=
-
-电影44_dou2yu,http://192.168.0.113:12345/douyu/2935323
 
 电影46_dou2yu,http://dyscdnali1.douyucdn.cn/live/310926riHQZHaxed.flv?uuid=
 
-电影46_dou2yu,http://192.168.0.113:12345/douyu/310926
-
 电影47_dou2yu,http://dyscdnali1.douyucdn.cn/live/218859rqPPCnL2wr.flv?uuid=
 
-电影47_dou2yu,http://192.168.0.113:12345/douyu/218859
+港产搞笑恐怖_hu1ya,http://txdirect.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.flv?wsSecret=611d15d1eb288d101ee622214798ef30&wsTime=618e70eb&uid=0&seqid=16366385868764124&ctype=tars_mobile&ver=1&t=103
 
-港产搞笑恐怖_hu1ya,http://txdirect.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.flv?wsSecret=c501dc595f8278e55087a486cfaeba41&wsTime=618d0819&uid=0&seqid=16365462307679174&ctype=tars_mobile&ver=1&t=103
+喜剧_hu1ya,http://tx.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv?wsSecret=66225e782f5e4ebd7932b14ba7a28f83&wsTime=618e70f1&uid=0&seqid=16366385869730676&ctype=tars_mobile&ver=1&t=103
 
-港产搞笑恐怖_hu1ya,http://192.168.0.113:12345/huya/11601960
+贺岁档_hu1ya,http://tx.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv?wsSecret=463f91ea1088575f8105b88fc6653a9c&wsTime=618e70e3&uid=0&seqid=16366385871185222&ctype=tars_mobile&ver=1&t=103
 
-喜剧_hu1ya,http://tx.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv?wsSecret=a00a9e125376578fe9eb48f0d646d52c&wsTime=618d082a&uid=0&seqid=16365462309434480&ctype=tars_mobile&ver=1&t=103
+女神系列_hu1ya,http://tx.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.flv?wsSecret=6f55bf0ee784b2b204b4444d4dab57b9&wsTime=618e70fa&uid=0&seqid=16366385876733882&ctype=tars_mobile&ver=1&t=103
 
-喜剧_hu1ya,http://192.168.0.113:12345/huya/11602044
+港片女神_hu1ya,http://tx.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv?wsSecret=e858ae2d3a56fee7367a0ff4913db055&wsTime=618e70fa&uid=0&seqid=16366385879787032&ctype=tars_mobile&ver=1&t=103
 
-贺岁档_hu1ya,http://tx.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv?wsSecret=f964d959e60b3c2f748ecd70f41a1b84&wsTime=618d082a&uid=0&seqid=16365462311370472&ctype=tars_mobile&ver=1&t=103
-
-贺岁档_hu1ya,http://192.168.0.113:12345/huya/11601986
-
-女神系列_hu1ya,http://tx.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.flv?wsSecret=e9ea141befc6b0b6b83570f7b4f48a69&wsTime=618d0836&uid=0&seqid=16365462314372458&ctype=tars_mobile&ver=1&t=103
-
-女神系列_hu1ya,http://192.168.0.113:12345/huya/11336571
-
-港片女神_hu1ya,http://tx.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv?wsSecret=b6fc0ae48123c876cc89829a331c1e9b&wsTime=618d0837&uid=0&seqid=16365462317254744&ctype=tars_mobile&ver=1&t=103
-
-港片女神_hu1ya,http://192.168.0.113:12345/huya/11342429
+电影1_qie,http://3954-out.liveplay.myqcloud.com/live/3954_227892408.flv?bizid=3954&txSecret=bae05f9d4636f858e8888808f3f6b84d&txTime=61962bfa
 
 电影2_qie,http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=10707aff48dba8e999917a4d20c61a21&txTime=6190b6e0
 
-电影2_qie,http://192.168.0.113:12345/egame/382971876
+僵尸恐怖_qie,http://3954-out.liveplay.myqcloud.com/live/3954_363783415.flv?bizid=3954&txSecret=0ffe50dd9e0fdaa668df86bd4c8b512a&txTime=6196436d
 
-僵尸恐怖_qie,http://3954-out.liveplay.myqcloud.com/live/3954_363783415.flv?bizid=3954&txSecret=0d39bd8880b97cf319d4df412a446abf&txTime=61900229
+电影1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37859000_37859000_0_0_0-15013_xa_37859000_37859000_0_0_0.m3u8?org=yyweb&uuid=cb031834fcdf4ee89abd728391ccc346&t=1636638588&tk=e40cd6c5f67d67e880f1feb25a40fc50
 
-僵尸恐怖_qie,http://192.168.0.113:12345/egame/363783415
+电影2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_79049030_79049030_0_0_0-15013_xa_79049030_79049030_0_0_0.m3u8?org=yyweb&uuid=a020f5db110f4b6188e59b866198f06e&t=1636638588&tk=acc83045af8b34c349153138cb5b5824
 
-电影1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37859000_37859000_0_0_0-15013_xa_37859000_37859000_0_0_0.m3u8?org=yyweb&uuid=3017a7b7504c4f43aba2360fda226d65&t=1636546234&tk=4fe161ba4a4d3e2b3d54d1cce545125c
+电影3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656234_1382656234_0_0_0-15013_xa_1382656234_1382656234_0_0_0.m3u8?org=yyweb&uuid=66d708585b0b488283c556ddc49b3dcb&t=1636638589&tk=5f7bf61ee03ee9426a3970f5dd83cedc
 
-电影1_YY,http://192.168.0.113:12345/yy/37859000
+僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34229877_34229877_0_0_0-15013_xa_34229877_34229877_0_0_0.m3u8?org=yyweb&uuid=9acca7ed45904d29b52fb568f41ba11e&t=1636638591&tk=f57111215b36eaa896e49deb24bedd32
 
-电影2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_79049030_79049030_0_0_0-15013_xa_79049030_79049030_0_0_0.m3u8?org=yyweb&uuid=4ab0793c2b3a4b56b1941a56e4120cf6&t=1636546233&tk=029f628af831c8bd9554f9be10c4453e
-
-电影2_YY,http://192.168.0.113:12345/yy/79049030
-
-电影3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656234_1382656234_0_0_0-15013_xa_1382656234_1382656234_0_0_0.m3u8?org=yyweb&uuid=950bc155d88345e28385d127881051a1&t=1636546234&tk=c7f11fba111d508c63a980f59f314974
-
-电影3_YY,http://192.168.0.113:12345/yy/1382656234
-
-僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34229877_34229877_0_0_0-15013_xa_34229877_34229877_0_0_0.m3u8?org=yyweb&uuid=9088d7a69f5540f8a78190e56d15c7db&t=1636546235&tk=3f58eb47f3df9206a49c7f2f31044f8e
-
-僵尸鬼片_YY,http://192.168.0.113:12345/yy/34229877
-
-搞笑僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_30668277_30668277_0_0_0-15013_xa_30668277_30668277_0_0_0.m3u8?org=yyweb&uuid=6e6eabc73f5b4d7aa82edb5eda51dbdd&t=1636546236&tk=c0d66b396ccafc2b395acf2461091cbe
-
-搞笑僵尸鬼片_YY,http://192.168.0.113:12345/yy/30668277
+搞笑僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_30668277_30668277_0_0_0-15013_xa_30668277_30668277_0_0_0.m3u8?org=yyweb&uuid=5f1453fae406415590d6ee82b662b780&t=1636638591&tk=8e91c068b430eaba6a75be31bbb51d1b
 
 动漫,#genre#
 
 灌篮高手解说1_dou2yu,http://dyscdnali1.douyucdn.cn/live/9837291riC523X24.flv?uuid=
 
-灌篮高手解说1_dou2yu,http://192.168.0.113:12345/douyu/9837291
-
 灌篮高手解说2_dou2yu,http://dyscdnali1.douyucdn.cn/live/9484105rIewxxYVZ.flv?uuid=
 
-灌篮高手解说2_dou2yu,http://192.168.0.113:12345/douyu/9484105
+灌篮高手解说3_dou2yu,http://dyscdnali1.douyucdn.cn/live/9848146rX664daNu.flv?uuid=
 
-西游记_dou2yu,http://dyscdnali1.douyucdn.cn/live/10240549rQvd9A3m.flv?uuid=
+西游记_dou2yu,http://dyscdnali1.douyucdn.cn/live/10240549rC8ymKEO.flv?uuid=
 
-西游记_dou2yu,http://192.168.0.113:12345/douyu/10240549
+七龙珠_hu1ya,http://tx.flv.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.flv?wsSecret=f2430e3137872cc9259d3ab89fd4d873&wsTime=618e70e7&uid=0&seqid=16366385689398270&ctype=tars_mobile&ver=1&t=103
 
-七龙珠_hu1ya,http://tx.flv.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.flv?wsSecret=afad1a125bdbae4008c48092bea14b99&wsTime=618d081f&uid=0&seqid=16365462080397852&ctype=tars_mobile&ver=1&t=103
+龙珠超1_hu1ya,http://tx.flv.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.flv?wsSecret=762d9ec958eaca56aa91d7594c43979d&wsTime=618e70e8&uid=0&seqid=16366385692561924&ctype=tars_mobile&ver=1&t=103
 
-七龙珠_hu1ya,http://192.168.0.113:12345/huya/25650806
-
-龙珠超1_hu1ya,http://tx.flv.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.flv?wsSecret=78b8a0717565c58b3be8a247a6217a8b&wsTime=618d081f&uid=0&seqid=16365462083589308&ctype=tars_mobile&ver=1&t=103
-
-龙珠超1_hu1ya,http://192.168.0.113:12345/huya/10279885
-
-龙珠超2_hu1ya,http://tx.flv.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.flv?wsSecret=1df1971a702dd87aa2d23834fcb94e0b&wsTime=618d0820&uid=0&seqid=16365462086531910&ctype=tars_mobile&ver=1&t=103
-
-龙珠超2_hu1ya,http://192.168.0.113:12345/huya/16755322
+龙珠超2_hu1ya,http://tx.flv.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.flv?wsSecret=01abde1c663c56caf94c6251959dfba8&wsTime=618e70e8&uid=0&seqid=16366385695381164&ctype=tars_mobile&ver=1&t=103
 
 茶啊二中_dou2yu,http://dyscdnali1.douyucdn.cn/live/2925610rapFOKMWN.flv?uuid=
 
-茶啊二中_dou2yu,http://192.168.0.113:12345/douyu/2925610
-
-茶啊二中_hu1ya,http://txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv?wsSecret=a3e33ffa2b6bbc2917208e6637f2f579&wsTime=618d0809&uid=0&seqid=16365462095069112&ctype=tars_mobile&ver=1&t=103
-
-茶啊二中_hu1ya,http://192.168.0.113:12345/huya/11213191
+茶啊二中_hu1ya,http://txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv?wsSecret=76f29b0f6a777604fccbb6fb7f427780&wsTime=618e70da&uid=0&seqid=16366385702010468&ctype=tars_mobile&ver=1&t=103
 
 猫和老鼠1_dou2yu,http://dyscdnali1.douyucdn.cn/live/7528160rs3fEUM9F.flv?uuid=
 
-猫和老鼠1_dou2yu,http://192.168.0.113:12345/douyu/7528160
-
-猫和老鼠1_bli,https://live.bilibili.com/live-bvc/326850/live_2370062_9705826.m3u8
-
 猫和老鼠1_bli,http://192.168.0.113:12345/bilibili/1024814
-
-猫和老鼠2_bli,https://live.bilibili.com/live-bvc/313996/live_4848211_28415954.m3u8
 
 猫和老鼠2_bli,http://192.168.0.113:12345/bilibili/22756056
 
-猫和老鼠4_bli,https://live.bilibili.com/live-bvc/866226/live_474923438_5417160.m3u8
-
 猫和老鼠4_bli,http://192.168.0.113:12345/bilibili/23184499
 
-猫和老鼠7_bli,https://live.bilibili.com/live-bvc/864500/live_278134251_52437732.m3u8
-
-猫和老鼠7_bli,http://192.168.0.113:12345/bilibili/23138038
-
-猫和老鼠_hu1ya,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=decf5eccd9930317c48e85fb23a3f8dd&wsTime=618d080f&uid=0&seqid=16365462135595978&ctype=tars_mobile&ver=1&t=103
-
-猫和老鼠_hu1ya,http://192.168.0.113:12345/huya/11352879
-
-猫和老鼠-爆笑虫子_YY,http://media-proxy.yy.com/livesystem/15013_xa_1349469149_1349469149_0_0_0.m3u8?org=yyweb&uuid=10a8b4cefec04600bfd2d9f94cc204d0&t=1636546213&tk=1c9c8fce1cbb90e9c4ebb4ff9b7b5689
-
-猫和老鼠-爆笑虫子_YY,http://192.168.0.113:12345/yy/1349469149
-
-葫芦兄弟_bli,https://live.bilibili.com/live-bvc/805392/live_544512637_75012069.m3u8
-
-葫芦兄弟_bli,http://192.168.0.113:12345/bilibili/23229924
-
-四驱兄弟_bli,https://live.bilibili.com/live-bvc/449739/live_12423924_9913341.m3u8
+猫和老鼠_hu1ya,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=a42b3d2894a9ce5c63a44567895c4fd4&wsTime=618e70d6&uid=0&seqid=16366385732610026&ctype=tars_mobile&ver=1&t=103
 
 四驱兄弟_bli,http://192.168.0.113:12345/bilibili/6304822
 
-我们这一家_bli,https://live.bilibili.com/live-bvc/988087/live_384415126_7322574.m3u8
-
 我们这一家_bli,http://192.168.0.113:12345/bilibili/14901318
 
-七龙珠1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_26664495_26664495_0_0_0-15013_xa_26664495_26664495_0_0_0.m3u8?org=yyweb&uuid=992e1805400b462894a83ba6efc1a84c&t=1636546215&tk=f0b808435bd2462911c7a11b8d2eb681
+七龙珠1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_26664495_26664495_0_0_0-15013_xa_26664495_26664495_0_0_0.m3u8?org=yyweb&uuid=863f44e248ed4ed4916548cf2c05032e&t=1636638573&tk=0af767b414a9cb414a7a08f869c265bb
 
-七龙珠1_YY,http://192.168.0.113:12345/yy/26664495
-
-七龙珠3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_33300793_33300793_0_0_0-15013_xa_33300793_33300793_0_0_0.m3u8?org=yyweb&uuid=ac03eb03fdd24f9bb4ded283d43a9ee2&t=1636546216&tk=dd31810eb79abde48309e627ca69344a
-
-七龙珠3_YY,http://192.168.0.113:12345/yy/33300793
-
-魔卡小樱1_bli,https://live.bilibili.com/live-bvc/643185/live_1405954_9513484.m3u8
+七龙珠3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_33300793_33300793_0_0_0-15013_xa_33300793_33300793_0_0_0.m3u8?org=yyweb&uuid=9080da4e5b1e4d42b784ba9edbe72738&t=1636638574&tk=b361cdfdfeeb0f2f5c568d26e72114a4
 
 魔卡小樱1_bli,http://192.168.0.113:12345/bilibili/34340
 
-中华小当家2_bli,https://live.bilibili.com/live-bvc/564757/live_347143_4425426.m3u8
-
 中华小当家2_bli,http://192.168.0.113:12345/bilibili/655291
-
-成龙历险记4_bli,https://live.bilibili.com/live-bvc/169890/live_7391731_5024304.m3u8
-
-成龙历险记4_bli,http://192.168.0.113:12345/bilibili/4361390
-
-蜡笔小新1_bli,https://live.bilibili.com/live-bvc/399850/live_482572673_49204800.m3u8
 
 蜡笔小新1_bli,http://192.168.0.113:12345/bilibili/23062128
 
-蜡笔小新2_bli,https://live.bilibili.com/live-bvc/756524/live_437038_4368633.m3u8
-
 蜡笔小新2_bli,http://192.168.0.113:12345/bilibili/27844
-
-蜡笔小新4_bli,https://live.bilibili.com/live-bvc/337178/live_24231448_16897089.m3u8
 
 蜡笔小新4_bli,http://192.168.0.113:12345/bilibili/21507503
 
-蜡笔小新5_bli,https://live.bilibili.com/live-bvc/800823/live_16416058_332_c521e483.m3u8
-
 蜡笔小新5_bli,http://192.168.0.113:12345/bilibili/49132
-
-蜡笔小新6_bli,https://live.bilibili.com/live-bvc/546924/live_542140801_71429859.m3u8
 
 蜡笔小新6_bli,http://192.168.0.113:12345/bilibili/22241668
 
-蜡笔小新_网易CC,https://alipullhls.cc.netease.com/pushstation/335b036782abd676560d186421574.m3u8?auth_key=1636632571-c67bc7d8883e482a9b0b0f5d6671bd49-0-efd3115a4e60ad67adfc4f2c7052a7fb
+蜡笔小新_hu1ya,http://tx.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.flv?wsSecret=47b8f58f2ce716c0d41074c75b1b3ef6&wsTime=618e70e4&uid=0&seqid=16366385800135336&ctype=tars_mobile&ver=1&t=103
 
-蜡笔小新_网易CC,http://192.168.0.113:12345/wangyicc/246303467
+蜡笔小新2_YY,http://media-proxy.yy.com/livesystem/15013_xa_37474373_37474373_0_0_0.m3u8?org=yyweb&uuid=1b102f55d6a24409bbef553f88daee7f&t=1636638578&tk=d33eaea66a2a82b4f04ce9a3c213a106
 
-蜡笔小新_hu1ya,http://tx.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.flv?wsSecret=0dc577fad3189bb3dba997efe729edbb&wsTime=618d0813&uid=0&seqid=16365462224655610&ctype=tars_mobile&ver=1&t=103
+灌篮高手1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1351417866_1351417866_0_0_0-15013_xa_1351417866_1351417866_0_0_0.m3u8?org=yyweb&uuid=0dd6fe40fbe5471581baa2dfe2e169d6&t=1636638578&tk=d83648decdaad6d51f82a369fdf8a086
 
-蜡笔小新_hu1ya,http://192.168.0.113:12345/huya/11352970
-
-蜡笔小新2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37474373_37474373_0_0_0-15013_xa_37474373_37474373_0_0_0.m3u8?org=yyweb&uuid=304a36334bd0472a87834fa2f944f4f5&t=1636546221&tk=6d37d66558427a7fe30af625cde458e7
-
-蜡笔小新2_YY,http://192.168.0.113:12345/yy/37474373
-
-灌篮高手1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1351417866_1351417866_0_0_0-15013_xa_1351417866_1351417866_0_0_0.m3u8?org=yyweb&uuid=89850e6575e24cda97aad47d1222cec3&t=1636546222&tk=5334c4d69730860d6c2b8d9bd9979d78
-
-灌篮高手1_YY,http://192.168.0.113:12345/yy/1351417866
-
-灌篮高手2_YY,http://media-proxy.yy.com/livesystem/15013_xv_1350984033_1350984033_0_1_0.m3u8?org=yyweb&uuid=fd78df762d4f4c3897d9c4698cbf9b23&t=1636546222&tk=ef8e0ccd614d779e3796aa858fd5774b
-
-灌篮高手2_YY,http://192.168.0.113:12345/yy/1350984033
-
-奥特曼1_bli,https://live.bilibili.com/live-bvc/799594/live_8800719_1830562.m3u8
+灌篮高手2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1350984033_1350984033_0_0_0-15013_xa_1350984033_1350984033_0_0_0.m3u8?org=yyweb&uuid=b523a7e4de534090b0e3dc31a1e90a2d&t=1636638579&tk=33432c3e5243e8b200669eb63d16340d
 
 奥特曼1_bli,http://192.168.0.113:12345/bilibili/4700569
 
-奥特曼4_bli,https://live.bilibili.com/live-bvc/328877/live_523065517_16447191.m3u8
+奥特曼2_bli,http://192.168.0.113:12345/bilibili/889136
+
+奥特曼3_bli,http://192.168.0.113:12345/bilibili/10267370
 
 奥特曼4_bli,http://192.168.0.113:12345/bilibili/22054619
 
-特摄_bli,https://live.bilibili.com/live-bvc/646134/live_21342544_4187643.m3u8
-
 特摄_bli,http://192.168.0.113:12345/bilibili/939703
-
-奥特曼_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1353323999_1353323999_0_0_0-15013_xa_1353323999_1353323999_0_0_0.m3u8?org=yyweb&uuid=20daf13b614e41ff94a1237987ed515c&t=1636546226&tk=cb1ed249a0d5361570b7155772407f0a
-
-奥特曼_YY,http://192.168.0.113:12345/yy/1353323999
 
 幽游白书_dou2yu,http://dyscdnali1.douyucdn.cn/live/7686674rFH7xe5Ay.flv?uuid=
 
-幽游白书_dou2yu,http://192.168.0.113:12345/douyu/7686674
-
 动漫1_dou2yu,http://dyscdnali1.douyucdn.cn/live/3705472rTOLWhVJQ.flv?uuid=
-
-动漫1_dou2yu,http://192.168.0.113:12345/douyu/3705472
 
 动漫2_dou2yu,http://dyscdnali1.douyucdn.cn/live/7919720raglKV1Y2.flv?uuid=
 
-动漫2_dou2yu,http://192.168.0.113:12345/douyu/7919720
-
-动漫4_dou2yu,http://dyscdnali1.douyucdn.cn/live/426517r24IDi2Fl3.flv?uuid=
-
-动漫4_dou2yu,http://192.168.0.113:12345/douyu/426517
+动漫4_dou2yu,http://dyscdnali1.douyucdn.cn/live/426517rMQib8zkim.flv?uuid=
 
 动漫_七龙珠_dou2yu,http://dyscdnali1.douyucdn.cn/live/7190773rhRe1Srfy.flv?uuid=
 
-动漫_七龙珠_dou2yu,http://192.168.0.113:12345/douyu/7190773
-
 动画电影_dou2yu,http://dyscdnali1.douyucdn.cn/live/7412199r290xLArz.flv?uuid=
-
-动画电影_dou2yu,http://192.168.0.113:12345/douyu/7412199
-
-哆啦A梦2_bli,https://live.bilibili.com/live-bvc/204571/live_7981914_1286387.m3u8
 
 哆啦A梦2_bli,http://192.168.0.113:12345/bilibili/482946
 
-哆啦A梦3_bli,https://live.bilibili.com/live-bvc/284360/live_25773623_6914527.m3u8
-
 哆啦A梦3_bli,http://192.168.0.113:12345/bilibili/1717236
-
-哆啦A梦4_bli,https://live.bilibili.com/live-bvc/744150/live_304521446_4567626.m3u8
 
 哆啦A梦4_bli,http://192.168.0.113:12345/bilibili/12811814
 
-动漫_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_24180320_24180320_0_0_0-15013_xa_24180320_24180320_0_0_0.m3u8?org=yyweb&uuid=d19480f8435a48b3b704cfebf732ab32&t=1636546233&tk=9a21cfd702c86cdfe6af100e155d3bce
+哆啦A梦5_bli,http://192.168.0.113:12345/bilibili/2417208
 
-动漫_YY,http://192.168.0.113:12345/yy/24180320
+动漫_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_24180320_24180320_0_0_0-15013_xa_24180320_24180320_0_0_0.m3u8?org=yyweb&uuid=50fe97b367a54d8e8d7c854c36e81c20&t=1636638590&tk=1e3ef9209fc0282224711216b717e650
 
-熊出没_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1352866135_1352866135_0_0_0-15013_xa_1352866135_1352866135_0_0_0.m3u8?org=yyweb&uuid=6801812499e5491f8bb06755b73afd09&t=1636546233&tk=6c5871ed0e7e55ca46c145799358da92
-
-熊出没_YY,http://192.168.0.113:12345/yy/1352866135
+熊出没_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1352866135_1352866135_0_0_0-15013_xa_1352866135_1352866135_0_0_0.m3u8?org=yyweb&uuid=b5f9f3451c314660af76ea9cd773afb5&t=1636638589&tk=505cdc0525d59ed0db0628683765e348
 
 明星,#genre#
 
 米娅陪看_dou2yu,http://dyscdnali1.douyucdn.cn/live/6537888rPiSclhcm.flv?uuid=
 
-米娅陪看_dou2yu,http://192.168.0.113:12345/douyu/6537888
-
 贝贝陪看_dou2yu,http://dyscdnali1.douyucdn.cn/live/431460rVVp2EyFk5.flv?uuid=
-
-贝贝陪看_dou2yu,http://192.168.0.113:12345/douyu/431460
 
 怡宝陪看_dou2yu,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv?uuid=
 
-怡宝陪看_dou2yu,http://192.168.0.113:12345/douyu/434971
-
-林正英1_bli,https://live.bilibili.com/live-bvc/730049/live_22989278_9714011.m3u8
-
 林正英1_bli,http://192.168.0.113:12345/bilibili/193
 
-林正英1_hu1ya,http://txdirect.flv.huya.com/huyalive/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=941e8aaa57b3690cce55f1b6f326c026&wsTime=618d0818&uid=0&seqid=16365462081744246&ctype=tars_mobile&ver=1&t=103
+林正英1_hu1ya,http://txdirect.flv.huya.com/huyalive/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=1d910ba10b2b8e1212ec963d12a77682&wsTime=618e70d2&uid=0&seqid=16366385685123530&ctype=tars_mobile&ver=1&t=103
 
-林正英1_hu1ya,http://192.168.0.113:12345/huya/11342421
+林正英2_hu1ya,http://txdirect.flv.huya.com/src/1766509959-1766509959-7587102501963300864-3533143374-10057-A-0-1.flv?wsSecret=4e43fa69a61c292b99b59228d934da6f&wsTime=618e70e7&uid=0&seqid=16366385689388298&ctype=tars_mobile&ver=1&t=103
 
-林正英2_hu1ya,http://txdirect.flv.huya.com/src/1766509959-1766509959-7587102501963300864-3533143374-10057-A-0-1.flv?wsSecret=ff7f74a8ebe982b0f2b0d10a5d0ba60c&wsTime=618d081b&uid=0&seqid=16365462084646504&ctype=tars_mobile&ver=1&t=103
+成龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34460526_34460526_0_0_0-15013_xa_34460526_34460526_0_0_0.m3u8?org=yyweb&uuid=c232524d6e6d47a59e19965573afc842&t=1636638569&tk=ef2f8c6e22af2205cf7f4461a6a213df
 
-林正英2_hu1ya,http://192.168.0.113:12345/huya/zhubodandan
-
-成龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34460526_34460526_0_0_0-15013_xa_34460526_34460526_0_0_0.m3u8?org=yyweb&uuid=b1770b87be1b4a0ca9dc796ed74c7405&t=1636546209&tk=242a2e1c3691b3ce9176d0029a0cb650
-
-成龙_YY,http://192.168.0.113:12345/yy/34460526
-
-成龙_hu1ya,http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=81ca99f2a174713babb3995ffb9beed6&wsTime=618d0812&uid=0&seqid=16365462098300468&ctype=tars_mobile&ver=1&t=103
-
-成龙_hu1ya,http://192.168.0.113:12345/huya/11342386
+成龙_hu1ya,http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=623145f85bc123d61e38e27ecae59c04&wsTime=618e70d8&uid=0&seqid=16366385700646052&ctype=tars_mobile&ver=1&t=103
 
 成龙_dou2yu,http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid=
 
-成龙_dou2yu,http://192.168.0.113:12345/douyu/6763930
-
 周星驰_qie,http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=2ae95f1a40d24fd502b3f6e484f57df5&txTime=6194b7dc
 
-周星驰_qie,http://192.168.0.113:12345/egame/199681168
+周星驰_hu1ya,http://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=55f87b0ea66b4dd5e2174911c74a9c61&wsTime=618e70d6&uid=0&seqid=16366385710663068&ctype=tars_mobile&ver=1&t=103
 
-周星驰_hu1ya,http://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=853eced6c06d0a9bfe8546c71ac1bbe2&wsTime=618d081e&uid=0&seqid=16365462109892618&ctype=tars_mobile&ver=1&t=103
+吴京_hu1ya,http://tx.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv?wsSecret=3eaf1181ee30483991240f8effa14c22&wsTime=618e70db&uid=0&seqid=16366385711953564&ctype=tars_mobile&ver=1&t=103
 
-周星驰_hu1ya,http://192.168.0.113:12345/huya/11342412
+李连杰_hu1ya,http://tx.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv?wsSecret=a7408a49d7a45effdcecb8264102f85d&wsTime=618e70ea&uid=0&seqid=16366385715057786&ctype=tars_mobile&ver=1&t=103
 
-吴京_hu1ya,http://tx.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv?wsSecret=b0ac487d53db2333355aa783a094f9df&wsTime=618d081a&uid=0&seqid=16365462111950250&ctype=tars_mobile&ver=1&t=103
+五福星系列_hu1ya,http://tx.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv?wsSecret=614a1017209a51ba942743861bb2bbde&wsTime=618e70e6&uid=0&seqid=16366385720984790&ctype=tars_mobile&ver=1&t=103
 
-吴京_hu1ya,http://192.168.0.113:12345/huya/11602045
+沈腾_hu1ya,http://tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsSecret=80c6fc52325543ff0232ed4e85bf232a&wsTime=618e70e3&uid=0&seqid=16366385724771850&ctype=tars_mobile&ver=1&t=103
 
-李连杰_hu1ya,http://tx.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv?wsSecret=fbd4b4350fa9aa4fcf76c885436d051d&wsTime=618d0811&uid=0&seqid=16365462113486150&ctype=tars_mobile&ver=1&t=103
-
-李连杰_hu1ya,http://192.168.0.113:12345/huya/11342390
-
-五福星系列_hu1ya,http://tx.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv?wsSecret=deb68e755c651364201afefbcbad9773&wsTime=618d080d&uid=0&seqid=16365462119345648&ctype=tars_mobile&ver=1&t=103
-
-五福星系列_hu1ya,http://192.168.0.113:12345/huya/11282233
-
-沈腾_hu1ya,http://tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsSecret=7584eac952f415ebeed93e0e476db3f7&wsTime=618d0806&uid=0&seqid=16365462124001832&ctype=tars_mobile&ver=1&t=103
-
-沈腾_hu1ya,http://192.168.0.113:12345/huya/11601968
-
-徐峥_hu1ya,http://tx.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv?wsSecret=0e161d01973c5784d033e6d98fd74259&wsTime=618d081a&uid=0&seqid=16365462127213274&ctype=tars_mobile&ver=1&t=103
-
-徐峥_hu1ya,http://192.168.0.113:12345/huya/11602043
+徐峥_hu1ya,http://tx.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv?wsSecret=85fadb492b37d7173c9509a842e43689&wsTime=618e70d7&uid=0&seqid=16366385726028576&ctype=tars_mobile&ver=1&t=103
 
 情景喜剧,#genre#
 
-炊事班的故事_bli,https://live.bilibili.com/live-bvc/639301/live_481306204_10891591.m3u8
-
 炊事班的故事_bli,http://192.168.0.113:12345/bilibili/21684683
-
-炊事班的故事2_bli,https://live.bilibili.com/live-bvc/361814/live_384369100_33341192.m3u8
 
 炊事班的故事2_bli,http://192.168.0.113:12345/bilibili/21354981
 
-炊事班的故事3_bli,https://live.bilibili.com/live-bvc/368884/live_173260853_3372536.m3u8
-
 炊事班的故事3_bli,http://192.168.0.113:12345/bilibili/14457148
 
-炊事班的故事5_bli,https://live.bilibili.com/live-bvc/723389/live_372246123_7839023.m3u8
-
 炊事班的故事5_bli,http://192.168.0.113:12345/bilibili/14016944
-
-炊事班的故事6_bli,https://live.bilibili.com/live-bvc/929019/live_1864464772_73870791.m3u8
 
 炊事班的故事6_bli,http://192.168.0.113:12345/bilibili/23794941
 
 炊事班的故事2_dou2yu,http://dyscdnali1.douyucdn.cn/live/319576rbz22j0JZl.flv?uuid=
 
-炊事班的故事2_dou2yu,http://192.168.0.113:12345/douyu/319576
-
 炊事班的故事5_dou2yu,http://dyscdnali1.douyucdn.cn/live/9560268rmV0DUyfG.flv?uuid=
 
-炊事班的故事5_dou2yu,http://192.168.0.113:12345/douyu/9560268
+炊事班的故事2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656457_1382656457_0_0_0-15013_xa_1382656457_1382656457_0_0_0.m3u8?org=yyweb&uuid=41831437921342ee9236c3d2441991de&t=1636638570&tk=60e35a761cdb2821183209daf4e48cf8
 
-炊事班的故事2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656457_1382656457_0_0_0-15013_xa_1382656457_1382656457_0_0_0.m3u8?org=yyweb&uuid=a25d1afa219942a58db7c80f2a970e50&t=1636546210&tk=419289f3e3476fe31beacb6a8af3549f
-
-炊事班的故事2_YY,http://192.168.0.113:12345/yy/1382656457
-
-炊事班的故事_hu1ya,http://tx.flv.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.flv?wsSecret=94f8da52fef88198195b2d78d0d710b0&wsTime=618d0823&uid=0&seqid=16365462117076548&ctype=tars_mobile&ver=1&t=103
-
-炊事班的故事_hu1ya,http://192.168.0.113:12345/huya/19524135
-
-地下交通站1_bli,https://live.bilibili.com/live-bvc/783985/live_389916383_3757719.m3u8
+炊事班的故事_hu1ya,http://tx.flv.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.flv?wsSecret=4070eaa638d25d160c31118d566aeef3&wsTime=618e70d2&uid=0&seqid=16366385720299048&ctype=tars_mobile&ver=1&t=103
 
 地下交通站1_bli,http://192.168.0.113:12345/bilibili/21070039
-
-地下交通站5_bli,https://live.bilibili.com/live-bvc/495305/live_367452704_4192427.m3u8
 
 地下交通站5_bli,http://192.168.0.113:12345/bilibili/22987700
 
 地下交通站3_dou2yu,http://dyscdnali1.douyucdn.cn/live/299854rhHq7EM4Iw.flv?uuid=
 
-地下交通站3_dou2yu,http://192.168.0.113:12345/douyu/299854
-
 地下交通站4_dou2yu,http://dyscdnali1.douyucdn.cn/live/6778282rrRMVcqTP.flv?uuid=
 
-地下交通站4_dou2yu,http://192.168.0.113:12345/douyu/6778282
+地下交通站5_dou2yu,http://dyscdnali1.douyucdn.cn/live/1781666rfO3Ep3a0.flv?uuid=
 
-地下交通站_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=8a6a43e8644298f618c3a3b739b5769d&wsTime=618d081b&uid=0&seqid=16365462164109550&ctype=tars_mobile&ver=1&t=103
+地下交通站_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=cf2b3130319c3b88d4390157549d2deb&wsTime=618e70ee&uid=0&seqid=16366385760039892&ctype=tars_mobile&ver=1&t=103
 
-地下交通站_hu1ya,http://192.168.0.113:12345/huya/11342433
+地下交通站1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_29907996_29907996_0_0_0-15013_xa_29907996_29907996_0_0_0.m3u8?org=yyweb&uuid=bd345711119647f7870525c430835ca2&t=1636638575&tk=07e42878d8675321541b8921f2135318
 
-地下交通站1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_29907996_29907996_0_0_0-15013_xa_29907996_29907996_0_0_0.m3u8?org=yyweb&uuid=722d04e9d2df4edb87b30eb97b48dbcb&t=1636546216&tk=23e41be6edbabc6523d4051d52382bf8
-
-地下交通站1_YY,http://192.168.0.113:12345/yy/29907996
-
-地下交通站2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1353428972_1353428972_0_0_0-15013_xa_1353428972_1353428972_0_0_0.m3u8?org=yyweb&uuid=e7b9fc3090fb45d1acabd7fc85b1bb85&t=1636546217&tk=dde2d68ad6230d78e818f3da8944d17f
-
-地下交通站2_YY,http://192.168.0.113:12345/yy/1353428972
+地下交通站2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1353428972_1353428972_0_0_0-15013_xa_1353428972_1353428972_0_0_0.m3u8?org=yyweb&uuid=a8c3f8b1d55545c3a9498eba808fa9b1&t=1636638577&tk=222bacaa3e9e1023ce10347ada73d78d
 
 爱情公寓4_dou2yu,http://dyscdnali1.douyucdn.cn/live/2838296rmClnibgV.flv?uuid=
 
-爱情公寓4_dou2yu,http://192.168.0.113:12345/douyu/2838296
-
 爱情公寓5_dou2yu,http://dyscdnali1.douyucdn.cn/live/7812810rNqMWVRsn.flv?uuid=
-
-爱情公寓5_dou2yu,http://192.168.0.113:12345/douyu/7812810
 
 爱情公寓7_dou2yu,http://dyscdnali1.douyucdn.cn/live/9110905rqerRJdWG.flv?uuid=
 
-爱情公寓7_dou2yu,http://192.168.0.113:12345/douyu/9110905
+爱情公寓10_qie,http://3954-out.liveplay.myqcloud.com/live/3954_482051453.flv?bizid=3954&txSecret=487935721a3731305aedd6a9eb772f7d&txTime=6195e4fa
 
-爱情公寓1_qie,http://3954-out.liveplay.myqcloud.com/live/3954_322842111.flv?bizid=3954&txSecret=57bcb45279ac81c36be89024d9629ee3&txTime=6194d03c
+爱情公寓_hu1ya,http://tx.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.flv?wsSecret=2b3db4720c2da9f221fb94e09f7c72d8&wsTime=618e70f0&uid=0&seqid=16366385811149624&ctype=tars_mobile&ver=1&t=103
 
-爱情公寓1_qie,http://192.168.0.113:12345/egame/322842111
-
-爱情公寓10_qie,http://3954-out.liveplay.myqcloud.com/live/3954_482051453.flv?bizid=3954&txSecret=44abdd071ca45457d58ae4af3d7f9c8b&txTime=619435e1
-
-爱情公寓10_qie,http://192.168.0.113:12345/egame/482051453
-
-爱情公寓_hu1ya,http://tx.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.flv?wsSecret=6be4d3f0e8562d224a95e11221c48a36&wsTime=618d0826&uid=0&seqid=16365462226440714&ctype=tars_mobile&ver=1&t=103
-
-爱情公寓_hu1ya,http://192.168.0.113:12345/huya/11336726
-
-家有儿女_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=45c9d64385b437c93319abf8c61df308&wsTime=618d0817&uid=0&seqid=16365462228315644&ctype=tars_mobile&ver=1&t=103
-
-家有儿女_hu1ya,http://192.168.0.113:12345/huya/11352872
+家有儿女_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=f8b99a1fa6c5a85da48ef25eba0c08fd&wsTime=618e70e7&uid=0&seqid=16366385812699480&ctype=tars_mobile&ver=1&t=103
 
 家有儿女3_qie,http://3954-out.liveplay.myqcloud.com/live/3954_142576940.flv?bizid=3954&txSecret=221ed2b8230d37c59d462a548d7e4b75&txTime=6194c5bd
 
-家有儿女3_qie,http://192.168.0.113:12345/egame/142576940
-
 家有儿女3_dou2yu,http://dyscdnali1.douyucdn.cn/live/6648727rNSAfeL8s.flv?uuid=
 
-家有儿女3_dou2yu,http://192.168.0.113:12345/douyu/6648727
-
-我爱我家_bli,https://live.bilibili.com/live-bvc/731329/live_406369616_65984627.m3u8
-
-我爱我家_bli,http://192.168.0.113:12345/bilibili/21332986
-
-我爱我家1_dou2yu,http://dyscdnali1.douyucdn.cn/live/4871722r3E8OSlGb.flv?uuid=
-
-我爱我家1_dou2yu,http://192.168.0.113:12345/douyu/4871722
+我爱我家1_dou2yu,http://dyscdnali1.douyucdn.cn/live/4871722rbhvEksaI.flv?uuid=
 
 我爱我家5_dou2yu,http://dyscdnali1.douyucdn.cn/live/3831627rVOz5KNSw.flv?uuid=
 
-我爱我家5_dou2yu,http://192.168.0.113:12345/douyu/3831627
-
-我爱我家6_dou2yu,http://dyscdnali1.douyucdn.cn/live/1182226rxfQWhzlG.flv?uuid=
-
-我爱我家6_dou2yu,http://192.168.0.113:12345/douyu/1182226
-
-我爱我家_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_95017956_95017956_0_0_0-15013_xa_95017956_95017956_0_0_0.m3u8?org=yyweb&uuid=1e94e16974604e6a8c8c77d3d1641f1b&t=1636546228&tk=203a33d533401b409237cbe0234a50d7
-
-我爱我家_YY,http://192.168.0.113:12345/yy/95017956
+我爱我家_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_95017956_95017956_0_0_0-15013_xa_95017956_95017956_0_0_0.m3u8?org=yyweb&uuid=e001ee82e5d245d580436154dc737303&t=1636638584&tk=4cd8aa2bdf03496b6dcb45334aebeaf9
 
 情景喜剧1_dou2yu,http://dyscdnali1.douyucdn.cn/live/3980787rVI3fG6Tv.flv?uuid=
 
-情景喜剧1_dou2yu,http://192.168.0.113:12345/douyu/3980787
-
-情景喜剧3_dou2yu,http://dyscdnali1.douyucdn.cn/live/240196rwh8hsb1Gb.flv?uuid=
-
-情景喜剧3_dou2yu,http://192.168.0.113:12345/douyu/240196
-
 闲人马大姐_dou2yu,http://dyscdnali1.douyucdn.cn/live/5658951r5SOmpSy6.flv?uuid=
-
-闲人马大姐_dou2yu,http://192.168.0.113:12345/douyu/5658951
-
-情景喜剧2_bli,https://live.bilibili.com/live-bvc/173036/live_31886569_7322841.m3u8
 
 情景喜剧2_bli,http://192.168.0.113:12345/bilibili/1127105
 
 其他,#genre#
 
-雷雨声2_bli,https://live.bilibili.com/live-bvc/507589/live_40909965_8400999.m3u8
-
 雷雨声2_bli,http://192.168.0.113:12345/bilibili/4293706
-
-雷雨声3_bli,https://live.bilibili.com/live-bvc/545280/live_24102785_30360922.m3u8
 
 雷雨声3_bli,http://192.168.0.113:12345/bilibili/22549164
 
-相声小品5_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1335509613_1335509613_0_0_0-15013_xa_1335509613_1335509613_0_0_0.m3u8?org=yyweb&uuid=ebebb2746c1840689d7377fd6893f620&t=1636546208&tk=94919b649c980c1eaca8df66abc66810
+雷雨声4_bli,http://192.168.0.113:12345/bilibili/8955586
 
-相声小品5_YY,http://192.168.0.113:12345/yy/1335509613
+相声小品1_bli,http://192.168.0.113:12345/bilibili/10726933
 
-相声小品6_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382690289_1382690289_0_0_0-15013_xa_1382690289_1382690289_0_0_0.m3u8?org=yyweb&uuid=83be609d5fbc4dc5bdd39f89f0ff6c25&t=1636546209&tk=2cc90b2f384e89e31d1115662f912f3a
+相声小品5_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1335509613_1335509613_0_0_0-15013_xa_1335509613_1335509613_0_0_0.m3u8?org=yyweb&uuid=401b5bf048d6438d80086c89236805f0&t=1636638568&tk=13cb1a002169aa801daf058fda044e0e
 
-相声小品6_YY,http://192.168.0.113:12345/yy/1382690289
+相声小品6_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382690289_1382690289_0_0_0-15013_xa_1382690289_1382690289_0_0_0.m3u8?org=yyweb&uuid=33548b4f4c914859bbfe34a58893828b&t=1636638570&tk=9ca9df6217637b700c657d1166c16431
 
-相声小品7_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_38525272_38525272_0_0_0-15013_xa_38525272_38525272_0_0_0.m3u8?org=yyweb&uuid=c269c53000a945db81e2ae742faa8c34&t=1636546209&tk=061a221b4679c5e0cd822dc4bd0ae895
+相声小品7_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_38525272_38525272_0_0_0-15013_xa_38525272_38525272_0_0_0.m3u8?org=yyweb&uuid=fba558cbbcac4d32abbe957ce35b6b0a&t=1636638570&tk=57e4f6212d0a3ea31db3c0fba8e58c38
 
-相声小品7_YY,http://192.168.0.113:12345/yy/38525272
+相声小品1_hu1ya,http://tx.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.flv?wsSecret=de72a7ce10b968e086ae18fafcdc32aa&wsTime=618e70eb&uid=0&seqid=16366385721638804&ctype=tars_mobile&ver=1&t=103
 
-相声小品1_hu1ya,http://tx.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.flv?wsSecret=96ddeca1f6ee99ff1f37f72e2c308381&wsTime=618d0816&uid=0&seqid=16365462109473736&ctype=tars_mobile&ver=1&t=103
-
-相声小品1_hu1ya,http://192.168.0.113:12345/huya/11352938
-
-相声小品2_hu1ya,http://txdirect.flv.huya.com/huyalive/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.flv?wsSecret=cf4cc73c52177cdd785ff89df8be7f81&wsTime=618d0822&uid=0&seqid=16365462112428984&ctype=tars_mobile&ver=1&t=103
-
-相声小品2_hu1ya,http://192.168.0.113:12345/huya/11352907
+相声小品2_hu1ya,http://txdirect.flv.huya.com/huyalive/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.flv?wsSecret=f04be418b7eca9b1af0dd9382b6f38e9&wsTime=618e70e3&uid=0&seqid=16366385723297930&ctype=tars_mobile&ver=1&t=103
 
 奥雷解说_dou2yu,http://dyscdnali1.douyucdn.cn/live/1224356rYOKq8HBw.flv?uuid=
 
-奥雷解说_dou2yu,http://192.168.0.113:12345/douyu/1224356
+阿斗解说_hu1ya,http://tx.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.flv?wsSecret=391e159f777ea46ca3fe2627d220fe56&wsTime=618e70e3&uid=0&seqid=16366385739374098&ctype=tars_mobile&ver=1&t=103
 
-阿斗解说_hu1ya,http://tx.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.flv?wsSecret=4baaacadc3ff633a24e78ecdceb09cc4&wsTime=618d0813&uid=0&seqid=16365462133107508&ctype=tars_mobile&ver=1&t=103
-
-阿斗解说_hu1ya,http://192.168.0.113:12345/huya/adgll
-
-扁豆看电影解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.flv?wsSecret=629c4632058ef8ef52c09e34a7d16c12&wsTime=618d0818&uid=0&seqid=16365462134907818&ctype=tars_mobile&ver=1&t=103
-
-扁豆看电影解说_hu1ya,http://192.168.0.113:12345/huya/bdcmovie
+扁豆看电影解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.flv?wsSecret=46f7e84580c389ea01a09448041ee334&wsTime=618e70d9&uid=0&seqid=16366385740572386&ctype=tars_mobile&ver=1&t=103
 
 科幻战舰解说_dou2yu,http://dyscdnali1.douyucdn.cn/live/8772060radVVMqBs.flv?uuid=
 
-科幻战舰解说_dou2yu,http://192.168.0.113:12345/douyu/8772060
+科幻梦工场解说_hu1ya,http://tx.flv.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.flv?wsSecret=ba693affb6741d9826ef33b9f2c4f10c&wsTime=618e70ed&uid=0&seqid=16366385749657872&ctype=tars_mobile&ver=1&t=103
 
-科幻梦工场解说_hu1ya,http://tx.flv.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.flv?wsSecret=6f2943735a5fc6ca95cfc3d39b307126&wsTime=618d0825&uid=0&seqid=16365462145166544&ctype=tars_mobile&ver=1&t=103
+电影最TOP解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.flv?wsSecret=204f9616742fc0c6ad661c99b5fe2846&wsTime=618e70ee&uid=0&seqid=16366385752664046&ctype=tars_mobile&ver=1&t=103
 
-科幻梦工场解说_hu1ya,http://192.168.0.113:12345/huya/kh1905
+亮哥讲电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1.flv?wsSecret=7607bc4b242b97b68691acad20d15167&wsTime=618e70ee&uid=0&seqid=16366385757152472&ctype=tars_mobile&ver=1&t=103
 
-电影最TOP解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.flv?wsSecret=41282623d199797a3afdeaae46faa33a&wsTime=618d0826&uid=0&seqid=16365462148018928&ctype=tars_mobile&ver=1&t=103
+阿良说美剧解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.flv?wsSecret=798adb2d03109fda3b7d8a5d1d688f23&wsTime=618e70ee&uid=0&seqid=16366385760140922&ctype=tars_mobile&ver=1&t=103
 
-电影最TOP解说_hu1ya,http://192.168.0.113:12345/huya/topfilm
+非凡武林解说_hu1ya,http://tx.flv.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.flv?wsSecret=4fb67ac4927eaf2a2dc20e468b484e52&wsTime=618e70ef&uid=0&seqid=16366385763139318&ctype=tars_mobile&ver=1&t=103
 
-亮哥讲电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1.flv?wsSecret=4ff7861449d806f55503be419d48319e&wsTime=618d0826&uid=0&seqid=16365462150861326&ctype=tars_mobile&ver=1&t=103
+恐怖地带解说_hu1ya,http://tx.flv.huya.com/src/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.flv?wsSecret=57538ccd1ef4e25cc3ae49eec7024609&wsTime=618e70ef&uid=0&seqid=16366385765714412&ctype=tars_mobile&ver=1&t=103
 
-亮哥讲电影解说_hu1ya,http://192.168.0.113:12345/huya/16144175
+越哥说电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1.flv?wsSecret=7e3c5f5c70f21ed85a4cb3b9340180fb&wsTime=618e70e5&uid=0&seqid=16366385767275228&ctype=tars_mobile&ver=1&t=103
 
-阿良说美剧解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.flv?wsSecret=6c549b00b0d4c441cd1195df01eea33e&wsTime=618d0826&uid=0&seqid=16365462153893816&ctype=tars_mobile&ver=1&t=103
+李小哇絮叨叨解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.flv?wsSecret=fe4fbc289b6ad00e22fa794fe0672647&wsTime=618e70ef&uid=0&seqid=16366385769948476&ctype=tars_mobile&ver=1&t=103
 
-阿良说美剧解说_hu1ya,http://192.168.0.113:12345/huya/20488841
+吾聊电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1.flv?wsSecret=65d7b01c94c39826742ffa1d098d8071&wsTime=618e70f0&uid=0&seqid=16366385772535948&ctype=tars_mobile&ver=1&t=103
 
-非凡武林解说_hu1ya,http://tx.flv.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.flv?wsSecret=b8cc2200ea9e410b5e8e81b72321727d&wsTime=618d0827&uid=0&seqid=16365462157043094&ctype=tars_mobile&ver=1&t=103
+止戈电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.flv?wsSecret=081ff4e0ae32f3b794a466f1d0d6c949&wsTime=618e70f0&uid=0&seqid=16366385775974054&ctype=tars_mobile&ver=1&t=103
 
-非凡武林解说_hu1ya,http://192.168.0.113:12345/huya/21674665
+小丑讲电影解说_hu1ya,http://txdirect.flv.huya.com/src/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1.flv?wsSecret=115bfb6297af31ac9897c3a4636467da&wsTime=618e70f0&uid=0&seqid=16366385778599692&ctype=tars_mobile&ver=1&t=103
 
-恐怖地带解说_hu1ya,http://tx.flv.huya.com/src/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.flv?wsSecret=0be1aceeb0d49bea8ee58c051b67427d&wsTime=618d0827&uid=0&seqid=16365462160459316&ctype=tars_mobile&ver=1&t=103
+青年电影馆解说_hu1ya,http://tx.flv.huya.com/src/1199532722561-1199532722561-5312217316371464192-2399065568578-10057-A-0-1.flv?wsSecret=94c0ab8a6dc511a116af12549dcf6756&wsTime=618e70f1&uid=0&seqid=16366385782336692&ctype=tars_mobile&ver=1&t=103
 
-恐怖地带解说_hu1ya,http://192.168.0.113:12345/huya/16741179
+鱼丸说电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1444281068-1444281068-6203139953291952128-4657213132-10057-A-0-1.flv?wsSecret=1b4c38ae30a9b6194577cabb19a24e65&wsTime=618e70d8&uid=0&seqid=16366385783573892&ctype=tars_mobile&ver=1&t=103
 
-越哥说电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1.flv?wsSecret=ddf459be5348b58d5b0a0238b47fe904&wsTime=618d0827&uid=0&seqid=16365462163640814&ctype=tars_mobile&ver=1&t=103
+熊妹撩电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/94525224-2703053314-11609525582974418944-239402834-10057-A-0-1.flv?wsSecret=d4836e2c50a65f753ec02c211fca71bd&wsTime=618e70f1&uid=0&seqid=16366385788911844&ctype=tars_mobile&ver=1&t=103
 
-越哥说电影解说_hu1ya,http://192.168.0.113:12345/huya/yuegemovie
+鲁班爱看剧解说_hu1ya,http://tx.flv.huya.com/src/1445186641-1445186641-6207029359711092736-4696433912-10057-A-0-1.flv?wsSecret=0a7dd676eecd5240914988300ec19766&wsTime=618e70f2&uid=0&seqid=16366385792469814&ctype=tars_mobile&ver=1&t=103
 
-李小哇絮叨叨解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.flv?wsSecret=4c9c2ccf79357527121aaaf7735a806c&wsTime=618d0828&uid=0&seqid=16365462167142508&ctype=tars_mobile&ver=1&t=103
+低调新说解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199527050394-1199527050394-5287855544609013760-2399054224244-10057-A-0-1.flv?wsSecret=fc00e01fafd5efbb9979b0a337480b5e&wsTime=618e70f2&uid=0&seqid=16366385796591728&ctype=tars_mobile&ver=1&t=103
 
-李小哇絮叨叨解说_hu1ya,http://192.168.0.113:12345/huya/18441722
+斌哥动漫解说_hu1ya,http://txdirect.flv.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.flv?wsSecret=0f54fb81a4ec1859ff3dc8b78a5ceb1a&wsTime=618e70f2&uid=0&seqid=16366385799209972&ctype=tars_mobile&ver=1&t=103
 
-吾聊电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1.flv?wsSecret=7308b34379073d61947336725ceaf43d&wsTime=618d0828&uid=0&seqid=16365462170074930&ctype=tars_mobile&ver=1&t=103
+麦子动漫解说_hu1ya,http://txdirect.flv.huya.com/huyalive/94525224-2706361404-11623733721336643584-2671908056-10057-A-0-1.flv?wsSecret=2bd291123d784c345760b2c19f7f5ab8&wsTime=618e70f3&uid=0&seqid=16366385803210400&ctype=tars_mobile&ver=1&t=103
 
-吾聊电影解说_hu1ya,http://192.168.0.113:12345/huya/16424416
+音乐小石榴_hu1ya,http://txdirect.flv.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=7026f03649d49e96194f6fcba7900009&wsTime=618e70dc&uid=0&seqid=16366385806063598&ctype=tars_mobile&ver=1&t=103
 
-止戈电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.flv?wsSecret=5fa7f02e7743fd348358c0db7c522d66&wsTime=618d0828&uid=0&seqid=16365462173485816&ctype=tars_mobile&ver=1&t=103
+今晚80后脱口秀_hu1ya,http://txdirect.flv.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.flv?wsSecret=c3d5d57ed48857034cc1db6b8d89d421&wsTime=618e70da&uid=0&seqid=16366385807042584&ctype=tars_mobile&ver=1&t=103
 
-止戈电影解说_hu1ya,http://192.168.0.113:12345/huya/19863777
-
-小丑讲电影解说_hu1ya,http://txdirect.flv.huya.com/src/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1.flv?wsSecret=85ec636903e24384022be2e00068f8ab&wsTime=618d0829&uid=0&seqid=16365462176348162&ctype=tars_mobile&ver=1&t=103
-
-小丑讲电影解说_hu1ya,http://192.168.0.113:12345/huya/16857432
-
-青年电影馆解说_hu1ya,http://tx.flv.huya.com/src/1199532722561-1199532722561-5312217316371464192-2399065568578-10057-A-0-1.flv?wsSecret=da7b1d51a58e5f96698735094345e483&wsTime=618d0829&uid=0&seqid=16365462179290294&ctype=tars_mobile&ver=1&t=103
-
-青年电影馆解说_hu1ya,http://192.168.0.113:12345/huya/qndyg
-
-鱼丸说电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1444281068-1444281068-6203139953291952128-4657213132-10057-A-0-1.flv?wsSecret=2b0b9097248b564283e8cd5de5285905&wsTime=618d0828&uid=0&seqid=16365462181155302&ctype=tars_mobile&ver=1&t=103
-
-鱼丸说电影解说_hu1ya,http://192.168.0.113:12345/huya/16615910
-
-熊妹撩电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/94525224-2703053314-11609525582974418944-239402834-10057-A-0-1.flv?wsSecret=130bb8f0a4a7a2bce5b5eacce17dc7a7&wsTime=618d082a&uid=0&seqid=16365462188706182&ctype=tars_mobile&ver=1&t=103
-
-熊妹撩电影解说_hu1ya,http://192.168.0.113:12345/huya/xiongmei666
-
-鲁班爱看剧解说_hu1ya,http://tx.flv.huya.com/src/1445186641-1445186641-6207029359711092736-4696433912-10057-A-0-1.flv?wsSecret=7cf6d261c7cb9ccbe1fc001c8e7468c8&wsTime=618d082a&uid=0&seqid=16365462192268702&ctype=tars_mobile&ver=1&t=103
-
-鲁班爱看剧解说_hu1ya,http://192.168.0.113:12345/huya/17139168
-
-低调新说解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199527050394-1199527050394-5287855544609013760-2399054224244-10057-A-0-1.flv?wsSecret=eec3819ac7271065b26e180fdd06fb6b&wsTime=618d082b&uid=0&seqid=16365462195490078&ctype=tars_mobile&ver=1&t=103
-
-低调新说解说_hu1ya,http://192.168.0.113:12345/huya/20578977
-
-斌哥动漫解说_hu1ya,http://txdirect.flv.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.flv?wsSecret=050d24bb2340e9c60226668085b0a021&wsTime=618d082b&uid=0&seqid=16365462199758342&ctype=tars_mobile&ver=1&t=103
-
-斌哥动漫解说_hu1ya,http://192.168.0.113:12345/huya/18632116
-
-麦子动漫解说_hu1ya,http://txdirect.flv.huya.com/huyalive/94525224-2706361404-11623733721336643584-2671908056-10057-A-0-1.flv?wsSecret=dd20acbea250124c98ace124f6f8fbaa&wsTime=618d0826&uid=0&seqid=16365462201688424&ctype=tars_mobile&ver=1&t=103
-
-麦子动漫解说_hu1ya,http://192.168.0.113:12345/huya/16162176
-
-音乐小石榴_hu1ya,http://txdirect.flv.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=5c59d8377fad5dcc7c5c326c889bdebb&wsTime=618d081a&uid=0&seqid=16365462203649312&ctype=tars_mobile&ver=1&t=103
-
-音乐小石榴_hu1ya,http://192.168.0.113:12345/huya/17091681
-
-今晚80后脱口秀_hu1ya,http://txdirect.flv.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.flv?wsSecret=1217130a5a9069b027ce4ae1e54d48e8&wsTime=618d0824&uid=0&seqid=16365462205524282&ctype=tars_mobile&ver=1&t=103
-
-今晚80后脱口秀_hu1ya,http://192.168.0.113:12345/huya/11352961
-
-野食小哥_hu1ya,http://tx.flv.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.flv?wsSecret=f4ec16ad7142d49ef31f33bfa2760dc2&wsTime=618d082c&uid=0&seqid=16365462208910382&ctype=tars_mobile&ver=1&t=103
-
-野食小哥_hu1ya,http://192.168.0.113:12345/huya/yesman
+野食小哥_hu1ya,http://tx.flv.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.flv?wsSecret=106c272cb145a890b94eaa7040c79b17&wsTime=618e70f3&uid=0&seqid=16366385810082148&ctype=tars_mobile&ver=1&t=103
 
 山药视频_dou2yu,http://dyscdnali1.douyucdn.cn/live/4262598rqs1wN5Uo.flv?uuid=
 
-山药视频_dou2yu,http://192.168.0.113:12345/douyu/4262598
-
-音乐_dou2yu,http://dyscdnali1.douyucdn.cn/live/8324627ryQEiJjh1.flv?uuid=
-
-音乐_dou2yu,http://192.168.0.113:12345/douyu/8324627
+音乐_dou2yu,http://dyscdnali1.douyucdn.cn/live/8324627rzyJjfuDl.flv?uuid=
 
 孤独的美食家1_dou2yu,http://dyscdnali1.douyucdn.cn/live/260322r60cZFN5ZF.flv?uuid=
 
-孤独的美食家1_dou2yu,http://192.168.0.113:12345/douyu/260322
-
 孤独的美食家2_dou2yu,http://dyscdnali1.douyucdn.cn/live/104984rOFFgp4spl.flv?uuid=
-
-孤独的美食家2_dou2yu,http://192.168.0.113:12345/douyu/104984
 
 孤独的美食家3_dou2yu,http://dyscdnali1.douyucdn.cn/live/953193rZHtInWqgG.flv?uuid=
 
-孤独的美食家3_dou2yu,http://192.168.0.113:12345/douyu/953193
-
 女团3_dou2yu,http://dyscdnali1.douyucdn.cn/live/231464r9XzaQ89ir.flv?uuid=
-
-女团3_dou2yu,http://192.168.0.113:12345/douyu/231464
 
 女团7_dou2yu,http://dyscdnali1.douyucdn.cn/live/329667rLi8OIH4Yr.flv?uuid=
 
-女团7_dou2yu,http://192.168.0.113:12345/douyu/329667
-
 女团8_dou2yu,http://dyscdnali1.douyucdn.cn/live/211561rLFN5AwgVm.flv?uuid=
-
-女团8_dou2yu,http://192.168.0.113:12345/douyu/211561
-
-女团11_dou2yu,http://dyscdnali1.douyucdn.cn/live/1285757rZ9S32anm.flv?uuid=
-
-女团11_dou2yu,http://192.168.0.113:12345/douyu/1285757
 
 综合,#genre#
 
