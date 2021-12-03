@@ -6,11 +6,9 @@
 
 万合天宜_dou2yu,http://dyscdnali1.douyucdn.cn/live/9220456rWD2OR7uF.flv?uuid=
 
-我是大哥大_hu1ya,http://tx.flv.huya.com/src/1199560287662-1199560287662-5430608523677401088-2399120698780-10057-A-0-1.flv?wsSecret=e06e429afcb41301257b054526366f3d&wsTime=61aa0920&uid=581998485&seqid=1639051808000.0&t=103&uuid=3103185506&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+我是大哥大_hu1ya,http://tx.flv.huya.com/src/1199560287662-1199560287662-5430608523677401088-2399120698780-10057-A-0-1.flv?wsSecret=fa6dcb53d95ea93a48df585d3e6868cd&wsTime=61ab5aa1&uid=581998485&seqid=1639138209000.0&t=103&uuid=3604648008&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-电视剧_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37999586_37999586_0_0_0-15013_xa_37999586_37999586_0_0_0.m3u8?org=yyweb&uuid=7ddcf07e1abd479eae065633a42fd9f9&t=1638447007&tk=685a3e5ec950d7f9f4f13cf3db54a489
-
-欢天喜地七仙女1_bli,http://192.168.0.113:12345/bilibili/4460741
+电视剧_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37999586_37999586_0_0_0-15013_xa_37999586_37999586_0_0_0.m3u8?org=yyweb&uuid=edf374972d994f5a8bdea11e701aa140&t=1638533409&tk=83f3d3dcd9e3140248a3454212e86463
 
 少年包青天1_bli,http://192.168.0.113:12345/bilibili/8566972
 
@@ -20,17 +18,15 @@
 
 少年包青天5_bli,http://192.168.0.113:12345/bilibili/23220264
 
-少年包青天_hu1ya,http://tx.flv.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.flv?wsSecret=35e7e5298bb6286b9ecd6a8541940e10&wsTime=61aa0909&uid=581998485&seqid=1639051814000.0&t=103&uuid=3109106795&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+少年包青天_hu1ya,http://tx.flv.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.flv?wsSecret=f3a93dc9803ad440d8d8d53d5fc983d6&wsTime=61ab5a97&uid=581998485&seqid=1639138216000.0&t=103&uuid=3611216849&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-少年包青天_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_23055599_23055599_0_0_0-15013_xa_23055599_23055599_0_0_0.m3u8?org=yyweb&uuid=cdc2b5d584584f64aef66f6c62541039&t=1638447014&tk=15033aee1fa23938a2d5fc0b9badaca6
+少年包青天_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_23055599_23055599_0_0_0-15013_xa_23055599_23055599_0_0_0.m3u8?org=yyweb&uuid=0ccfebe5720b4a50a9d2a6410b54ebd8&t=1638533416&tk=706757df0026f26e1e160d95efd33357
 
 士兵突击1_bli,http://192.168.0.113:12345/bilibili/6166099
 
-士兵突击1_hu1ya,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c8d8ba27bb87c398fd35f430ba25dbd9&wsTime=61aa090c&uid=581998485&seqid=1639051816000.0&t=103&uuid=3110735437&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+士兵突击1_hu1ya,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=bc3d549dc7bb04b971ffa9296cbe8924&wsTime=61ab5a94&uid=581998485&seqid=1639138218000.0&t=103&uuid=3613214070&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-重案六组1_bli,http://192.168.0.113:12345/bilibili/15131066
-
-康熙微服私访记_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=47849422560ca455bf08601140ba0df0&wsTime=61aa0913&uid=581998485&seqid=1639051817000.0&t=103&uuid=3111579815&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+康熙微服私访记_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=1cdfb463d784366a552ceba35cc08ea7&wsTime=61ab5aaa&uid=581998485&seqid=1639138219000.0&t=103&uuid=3614003839&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 倚天屠龙记_dou2yu,http://dyscdnali1.douyucdn.cn/live/6079455rL45rzrHz.flv?uuid=
 
@@ -50,7 +46,7 @@
 
 仙剑奇侠传3_dou2yu,http://dyscdnali1.douyucdn.cn/live/7270927rda9JWqm8.flv?uuid=
 
-神医喜来乐_hu1ya,http://tx.flv.huya.com/huyalive/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.flv?wsSecret=9379d7afd4977acd131e63f738e35dac&wsTime=61aa0927&uid=581998485&seqid=1639051825000.0&t=103&uuid=3120072893&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+神医喜来乐_hu1ya,http://tx.flv.huya.com/huyalive/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.flv?wsSecret=ce78ca4a8a2276a794b14b5a90ef3f27&wsTime=61ab5ab2&uid=581998485&seqid=1639138228000.0&t=103&uuid=3623110701&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 电影,#genre#
 
@@ -61,6 +57,8 @@
 电影3_bli,http://192.168.0.113:12345/bilibili/70155
 
 电影4_bli,http://192.168.0.113:12345/bilibili/82997
+
+电影5_bli,http://192.168.0.113:12345/bilibili/6827037
 
 电影6_bli,http://192.168.0.113:12345/bilibili/47917
 
@@ -74,9 +72,7 @@
 
 电影12_bli,http://192.168.0.113:12345/bilibili/6837959
 
-电影1_dou2yu,http://dyscdnali1.douyucdn.cn/live/52787rEKyx5UJA7E.flv?uuid=
-
-电影2_dou2yu,http://dyscdnali1.douyucdn.cn/live/7254536rXZzDQkPH.flv?uuid=
+电影1_dou2yu,http://dyscdnali1.douyucdn.cn/live/1024p.flv?uuid=
 
 电影3_dou2yu,http://dyscdnali1.douyucdn.cn/live/1504768rsnZud2Gv.flv?uuid=
 
@@ -104,7 +100,7 @@
 
 电影18_dou2yu,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 
-电影19_dou2yu,http://dyscdnali1.douyucdn.cn/live/4332rnY8kHoxJ7MZ.flv?uuid=
+电影19_dou2yu,http://dyscdnali1.douyucdn.cn/live/4332rxQmudda5oMa.flv?uuid=
 
 电影20_dou2yu,http://dyscdnali1.douyucdn.cn/live/6566658r9JDM99sl.flv?uuid=
 
@@ -115,6 +111,8 @@
 电影25_dou2yu,http://dyscdnali1.douyucdn.cn/live/315457rGxEJOfxKX.flv?uuid=
 
 电影27_dou2yu,http://dyscdnali1.douyucdn.cn/live/248753rvYnutaAgJ.flv?uuid=
+
+电影28_dou2yu,http://dyscdnali1.douyucdn.cn/live/9275635rM9ipeWJU.flv?uuid=
 
 电影29_dou2yu,http://dyscdnali1.douyucdn.cn/live/7842226rG9XPXqLj.flv?uuid=
 
@@ -127,6 +125,8 @@
 电影34_dou2yu,http://dyscdnali1.douyucdn.cn/live/5129261rSQg3lMXW.flv?uuid=
 
 电影35_dou2yu,http://dyscdnali1.douyucdn.cn/live/6763930r0FMFk5lG.flv?uuid=
+
+电影37_dou2yu,http://dyscdnali1.douyucdn.cn/live/508118rG5xA0tLKu.flv?uuid=
 
 电影39_dou2yu,http://dyscdnali1.douyucdn.cn/live/8791622rgnkxR0v9.flv?uuid=
 
@@ -142,29 +142,27 @@
 
 电影47_dou2yu,http://dyscdnali1.douyucdn.cn/live/218859r9FhjG42MY.flv?uuid=
 
-港产搞笑恐怖_hu1ya,http://txdirect.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.flv?wsSecret=8e967c29803d772e7f751b065ca30b8f&wsTime=61aa0939&uid=581998485&seqid=1639051834000.0&t=103&uuid=3128404504&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+港产搞笑恐怖_hu1ya,http://txdirect.flv.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.flv?wsSecret=9bb6917bee0e3954de919b19c779cca6&wsTime=61ab5abd&uid=581998485&seqid=1639138237000.0&t=103&uuid=3632735226&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-喜剧_hu1ya,http://tx.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv?wsSecret=b4e095263231c1efa2504c8fbc90207a&wsTime=61aa0934&uid=581998485&seqid=1639051834000.0&t=103&uuid=3128582455&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+喜剧_hu1ya,http://tx.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv?wsSecret=531d7562a78382ef1caba80978b4ee95&wsTime=61ab5abd&uid=581998485&seqid=1639138238000.0&t=103&uuid=3633094356&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-贺岁档_hu1ya,http://tx.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.flv?wsSecret=e71064da2d726400f4c14a33623b430f&wsTime=61aa0939&uid=581998485&seqid=1639051834000.0&t=103&uuid=3128737094&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+贺岁档_hu1ya,http://tx.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.flv?wsSecret=e59012d704628224118a82d6553a8422&wsTime=61ab5abd&uid=581998485&seqid=1639138238000.0&t=103&uuid=3633267935&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-女神系列_hu1ya,http://tx.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.flv?wsSecret=c0e881ec6e8898e68e5fc337c21413f0&wsTime=61aa093a&uid=581998485&seqid=1639051834000.0&t=103&uuid=3129059946&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+女神系列_hu1ya,http://tx.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.flv?wsSecret=474faa0afe20a430d8b52c070d6f6399&wsTime=61ab5abe&uid=581998485&seqid=1639138238000.0&t=103&uuid=3633547594&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-港片女神_hu1ya,http://tx.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv?wsSecret=5f8aab557f192795af99bc57e73b8c6d&wsTime=61aa093a&uid=581998485&seqid=1639051835000.0&t=103&uuid=3129393422&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+港片女神_hu1ya,http://tx.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv?wsSecret=4cd420f3cb053ae379ce419ac6e3876f&wsTime=61ab5abe&uid=581998485&seqid=1639138238000.0&t=103&uuid=3633867680&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-电影1_qie,http://3954-out.liveplay.myqcloud.com/live/3954_227892408.flv?bizid=3954&txSecret=5368501213b970d30de3838ae68e4888&txTime=61b1e644
+电影2_qie,http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=120d6af7c70c43dabdefd1192c7bd41f&txTime=61b2491f
 
-电影2_qie,http://3954-out.liveplay.myqcloud.com/live/3954_382971876.flv?bizid=3954&txSecret=90b0c59e0f47acfcbdc031762c10290c&txTime=61aa5f93
+僵尸恐怖_qie,http://3954-out.liveplay.myqcloud.com/live/3954_363783415.flv?bizid=3954&txSecret=2baeef86b530b527e67dc3dc6b95a38e&txTime=61b2de70
 
-僵尸恐怖_qie,http://3954-out.liveplay.myqcloud.com/live/3954_363783415.flv?bizid=3954&txSecret=124ef083916fa8a16362d2d4f548a76d&txTime=61b1a4b1
+电影1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37859000_37859000_0_0_0-15013_xa_37859000_37859000_0_0_0.m3u8?org=yyweb&uuid=bc14495d06764d9997a6efae8cc67a7a&t=1638533440&tk=d4eae4dadd3a73899666c0ddc2db1d04
 
-电影1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37859000_37859000_0_0_0-15013_xa_37859000_37859000_0_0_0.m3u8?org=yyweb&uuid=158a5adb59f64eab87ab815a7dbc11d8&t=1638447035&tk=e00b202055ca0fa83bdb304a0136e359
+电影3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656234_1382656234_0_0_0-15013_xa_1382656234_1382656234_0_0_0.m3u8?org=yyweb&uuid=75f5cea20d8e414fb5317772be616f2d&t=1638533441&tk=8fcfefc2491d36dd60aa74508095a7e2
 
-电影3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656234_1382656234_0_0_0-15013_xa_1382656234_1382656234_0_0_0.m3u8?org=yyweb&uuid=881c4524feed425791cb0e41b76142e3&t=1638447037&tk=417253c077aa2169c74eea8a02858a1c
+僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34229877_34229877_0_0_0-15013_xa_34229877_34229877_0_0_0.m3u8?org=yyweb&uuid=90d6fd79ddb94538aeb2accec7688714&t=1638533442&tk=da1db79f958704208c13a08df86d8a16
 
-僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34229877_34229877_0_0_0-15013_xa_34229877_34229877_0_0_0.m3u8?org=yyweb&uuid=7b591e8b35254370a15bae0dd83aab79&t=1638447039&tk=1a58eb0b9433a3291aa6bc78788c64f3
-
-搞笑僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_30668277_30668277_0_0_0-15013_xa_30668277_30668277_0_0_0.m3u8?org=yyweb&uuid=e96e99169c034ef0be6bd09d4e1bac2b&t=1638447039&tk=e8c4f6971814f975333b8297e240e748
+搞笑僵尸鬼片_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_30668277_30668277_0_0_0-15013_xa_30668277_30668277_0_0_0.m3u8?org=yyweb&uuid=db6c55daa0e94b8284b6b67fa78b6aca&t=1638533443&tk=41ea7509002e0a811edbafb8d1cc2fbd
 
 动漫,#genre#
 
@@ -174,39 +172,41 @@
 
 西游记_dou2yu,http://dyscdnali1.douyucdn.cn/live/10240549rC8ymKEO.flv?uuid=
 
-七龙珠_hu1ya,http://tx.flv.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.flv?wsSecret=02813b594441e74273b38f9ed2ff98c9&wsTime=61aa0920&uid=581998485&seqid=1639051809000.0&t=103&uuid=3103310570&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+七龙珠_hu1ya,http://tx.flv.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.flv?wsSecret=a7604aa1676dcfe8029fe27d64df9c28&wsTime=61ab5aa1&uid=581998485&seqid=1639138209000.0&t=103&uuid=3604871404&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-龙珠超1_hu1ya,http://tx.flv.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.flv?wsSecret=6be9d78a16889a307b72ee2eeddc3e31&wsTime=61aa0920&uid=581998485&seqid=1639051809000.0&t=103&uuid=3103583945&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+龙珠超1_hu1ya,http://tx.flv.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.flv?wsSecret=582cf01c28c3e6d6c02d46f91cf8ef99&wsTime=61ab5aa1&uid=581998485&seqid=1639138210000.0&t=103&uuid=3605199483&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-龙珠超2_hu1ya,http://tx.flv.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.flv?wsSecret=7351a8855fb5e2d55c2e0ad4ee808fa7&wsTime=61aa0920&uid=581998485&seqid=1639051809000.0&t=103&uuid=3103869188&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+龙珠超2_hu1ya,http://tx.flv.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.flv?wsSecret=7db18b31f469fcdc26566a337ffdf6a1&wsTime=61ab5aa2&uid=581998485&seqid=1639138210000.0&t=103&uuid=3605452997&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 茶啊二中_dou2yu,http://dyscdnali1.douyucdn.cn/live/2925610rbDKMfPqw.flv?uuid=
 
-茶啊二中_hu1ya,http://txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv?wsSecret=76bbbced0cd99609d988223ae85b2588&wsTime=61aa0921&uid=581998485&seqid=1639051810000.0&t=103&uuid=3104758683&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+茶啊二中_hu1ya,http://txdirect.flv.huya.com/huyalive/28596569-28596569-122821328632807424-2633424538-10057-A-0-1.flv?wsSecret=3bca390719e11c652aa0b88bbae7de2b&wsTime=61ab5aa3&uid=581998485&seqid=1639138211000.0&t=103&uuid=3606682173&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 猫和老鼠1_dou2yu,http://dyscdnali1.douyucdn.cn/live/7528160rs3fEUM9F.flv?uuid=
 
 猫和老鼠1_bli,http://192.168.0.113:12345/bilibili/1024814
 
-猫和老鼠_hu1ya,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=bb0d08c0c7680749090a9e864af0ecff&wsTime=61aa090c&uid=581998485&seqid=1639051813000.0&t=103&uuid=3107922388&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+猫和老鼠_hu1ya,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=5e834f70ca5f591d2152e5b4d9206d40&wsTime=61ab5aa7&uid=581998485&seqid=1639138215000.0&t=103&uuid=3610676795&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-猫和老鼠-爆笑虫子_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1349469149_1349469149_0_0_0-15013_xa_1349469149_1349469149_0_0_0.m3u8?org=yyweb&uuid=0b09fc08eb264e1fbb2305b46d9f3f05&t=1638447013&tk=4cce430cc84427acdda5a3ba1e31e937
+猫和老鼠-爆笑虫子_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1349469149_1349469149_0_0_0-15013_xa_1349469149_1349469149_0_0_0.m3u8?org=yyweb&uuid=b241a8f1377f46a092f3f831c3c5bdfb&t=1638533416&tk=d3663c7cc63d744a31667a16170b07e4
+
+葫芦兄弟_bli,http://192.168.0.113:12345/bilibili/23229924
 
 四驱兄弟_bli,http://192.168.0.113:12345/bilibili/6304822
 
 我们这一家_bli,http://192.168.0.113:12345/bilibili/14901318
 
-七龙珠1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_26664495_26664495_0_0_0-15013_xa_26664495_26664495_0_0_0.m3u8?org=yyweb&uuid=83a5dde48200478ab6cfb4511dd13f93&t=1638447015&tk=051b196eddeb39fda62ead28faf6b2b7
+七龙珠1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_26664495_26664495_0_0_0-15013_xa_26664495_26664495_0_0_0.m3u8?org=yyweb&uuid=77b0ecee81ee43d4b1f773e6afb264cb&t=1638533417&tk=883bd24abac106c279bf2915788d6124
 
-七龙珠3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_33300793_33300793_0_0_0-15013_xa_33300793_33300793_0_0_0.m3u8?org=yyweb&uuid=d30150bab9b44812895a962e09c2bd38&t=1638447016&tk=c139dcd81cacac2743b53ebfab54dfc5
+七龙珠3_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_33300793_33300793_0_0_0-15013_xa_33300793_33300793_0_0_0.m3u8?org=yyweb&uuid=7814e827602747129ea73073a03b6606&t=1638533418&tk=1b335703960b1687b7d29d7595a28303
 
 魔卡小樱1_bli,http://192.168.0.113:12345/bilibili/34340
 
 中华小当家2_bli,http://192.168.0.113:12345/bilibili/655291
 
-蜡笔小新2_bli,http://192.168.0.113:12345/bilibili/27844
+成龙历险记4_bli,http://192.168.0.113:12345/bilibili/4361390
 
-蜡笔小新3_bli,http://192.168.0.113:12345/bilibili/22693306
+蜡笔小新2_bli,http://192.168.0.113:12345/bilibili/27844
 
 蜡笔小新4_bli,http://192.168.0.113:12345/bilibili/21507503
 
@@ -214,21 +214,19 @@
 
 蜡笔小新6_bli,http://192.168.0.113:12345/bilibili/22241668
 
-蜡笔小新_hu1ya,http://tx.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.flv?wsSecret=03a551490bd3f018e3fa1cbc07e651cb&wsTime=61aa092d&uid=581998485&seqid=1639051824000.0&t=103&uuid=3118710131&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+蜡笔小新_hu1ya,http://tx.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.flv?wsSecret=afb512376bbd650d81f65778e6c8c37f&wsTime=61ab5ab0&uid=581998485&seqid=1639138225000.0&t=103&uuid=3620028991&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-灌篮高手1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1351417866_1351417866_0_0_0-15013_xa_1351417866_1351417866_0_0_0.m3u8?org=yyweb&uuid=28a80ab28bf7449f8de17ce5282f2bfd&t=1638447024&tk=2bc7e55228eb7e95441121c11a2defaf
+蜡笔小新2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_37474373_37474373_0_0_0-15013_xa_37474373_37474373_0_0_0.m3u8?org=yyweb&uuid=4da05a1b7e6e4868b0423042d89504f7&t=1638533424&tk=343c978fb5f632f4bbad5d82a7247b72
 
-灌篮高手2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1350984033_1350984033_0_0_0-15013_xa_1350984033_1350984033_0_0_0.m3u8?org=yyweb&uuid=9afc9db19b944af689e53caf82450ec6&t=1638447025&tk=15a5d6284d0cef2c1c753bae48ae97b9
+灌篮高手1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1351417866_1351417866_0_0_0-15013_xa_1351417866_1351417866_0_0_0.m3u8?org=yyweb&uuid=110960fb2b6e4287894fa1301e0e9704&t=1638533425&tk=a72ba166fb031e05ac5794bccd161ae7
+
+灌篮高手2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1350984033_1350984033_0_0_0-15013_xa_1350984033_1350984033_0_0_0.m3u8?org=yyweb&uuid=09f0557bbb264482b360c05cfbcb7b83&t=1638533426&tk=e2a7ba1aa9d321057780f192e51b15f7
 
 奥特曼1_bli,http://192.168.0.113:12345/bilibili/4700569
 
-奥特曼2_bli,http://192.168.0.113:12345/bilibili/889136
-
-奥特曼4_bli,http://192.168.0.113:12345/bilibili/22054619
-
 特摄_bli,http://192.168.0.113:12345/bilibili/939703
 
-奥特曼_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1353323999_1353323999_0_0_0-15013_xa_1353323999_1353323999_0_0_0.m3u8?org=yyweb&uuid=e6accbecabda4d3690914f3fa6193218&t=1638447028&tk=c48b8660472e15365378210f2fb02d5a
+奥特曼_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1353323999_1353323999_0_0_0-15013_xa_1353323999_1353323999_0_0_0.m3u8?org=yyweb&uuid=2c5056fd393b48e0be90296f65c734ac&t=1638533429&tk=c40ed8c9f0774102b79b6a4afede6811
 
 幽游白书_dou2yu,http://dyscdnali1.douyucdn.cn/live/7686674rFH7xe5Ay.flv?uuid=
 
@@ -236,7 +234,7 @@
 
 动漫2_dou2yu,http://dyscdnali1.douyucdn.cn/live/7919720rathZmZko.flv?uuid=
 
-动漫4_dou2yu,http://dyscdnali1.douyucdn.cn/live/426517rAGQNRyI2Q.flv?uuid=
+动漫4_dou2yu,http://dyscdnali1.douyucdn.cn/live/426517rtXMh6yKBX.flv?uuid=
 
 动漫_七龙珠_dou2yu,http://dyscdnali1.douyucdn.cn/live/7190773rKSoAalxm.flv?uuid=
 
@@ -248,9 +246,9 @@
 
 哆啦A梦4_bli,http://192.168.0.113:12345/bilibili/12811814
 
-动漫_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_24180320_24180320_0_0_0-15013_xa_24180320_24180320_0_0_0.m3u8?org=yyweb&uuid=a017e16de366400586cf444f4a44963a&t=1638447036&tk=7e77c0475e9f5873b2fe0c7d95725fd1
+动漫_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_24180320_24180320_0_0_0-15013_xa_24180320_24180320_0_0_0.m3u8?org=yyweb&uuid=d19b3fbd45984d86a7e8bef5ad6c0218&t=1638533439&tk=5962aac49f3435740356aa71e2ff0e52
 
-熊出没_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1352866135_1352866135_0_0_0-15013_xa_1352866135_1352866135_0_0_0.m3u8?org=yyweb&uuid=28f10132347b41cfa0166c0235e4843b&t=1638447036&tk=2f6d2753b87f848e92e3835f2c11870a
+熊出没_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1352866135_1352866135_0_0_0-15013_xa_1352866135_1352866135_0_0_0.m3u8?org=yyweb&uuid=9dbd524cea294254886ac31cd984a5ce&t=1638533438&tk=ae79bbffc326c7f487f6c67d862833e5
 
 明星,#genre#
 
@@ -264,33 +262,35 @@
 
 林正英3_bli,http://192.168.0.113:12345/bilibili/21360358
 
-林正英1_hu1ya,http://txdirect.flv.huya.com/huyalive/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=1fd4649f4285e7584037cb54062c282d&wsTime=61aa0919&uid=581998485&seqid=1639051809000.0&t=103&uuid=3103710492&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+林正英1_hu1ya,http://txdirect.flv.huya.com/huyalive/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=04f2c64d0f337cbbd066cfd5855d91c8&wsTime=61ab5a95&uid=581998485&seqid=1639138210000.0&t=103&uuid=3605000556&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-林正英2_hu1ya,http://txdirect.flv.huya.com/src/1766509959-1766509959-7587102501963300864-3533143374-10057-A-0-1.flv?wsSecret=a57bb7ea1bdcee9f59a4c1b45e646625&wsTime=61aa0921&uid=581998485&seqid=1639051809000.0&t=103&uuid=3104105306&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+林正英2_hu1ya,http://txdirect.flv.huya.com/src/1766509959-1766509959-7587102501963300864-3533143374-10057-A-0-1.flv?wsSecret=d3d6ef2f6f32336dedc458545c2253db&wsTime=61ab5aa1&uid=581998485&seqid=1639138210000.0&t=103&uuid=3605363290&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-成龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34460526_34460526_0_0_0-15013_xa_34460526_34460526_0_0_0.m3u8?org=yyweb&uuid=f50711cbbbaf41b68333f62d5a293d31&t=1638447009&tk=4c5045b464d238aba380d4f16a014f8b
+成龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_34460526_34460526_0_0_0-15013_xa_34460526_34460526_0_0_0.m3u8?org=yyweb&uuid=8a397087eddb4e4598a284501231a7ba&t=1638533411&tk=f312dd74e84500b7f2e704e7aefc1da3
 
-成龙_hu1ya,http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=1eb6c5104f4fea6959073a2fadfd2574&wsTime=61aa091c&uid=581998485&seqid=1639051811000.0&t=103&uuid=3105706290&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+成龙_hu1ya,http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=343c8b0152a5948003c9ed5867f701d9&wsTime=61ab5a9d&uid=581998485&seqid=1639138212000.0&t=103&uuid=3607227236&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 成龙_dou2yu,http://dyscdnali1.douyucdn.cn/live/6763930r0FMFk5lG.flv?uuid=
 
 周星驰_qie,http://3954-out.liveplay.myqcloud.com/live/3954_199681168.flv?bizid=3954&txSecret=981ab07c1383a453f77aca5ceba945e2&txTime=61aec95e
 
-周星驰_hu1ya,http://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=8f77dd86e51bc54cb06aadd4e1e56bee&wsTime=61aa0921&uid=581998485&seqid=1639051812000.0&t=103&uuid=3106778982&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+周星驰_hu1ya,http://tx.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsSecret=490d8dd10341ea4493adbab314193bf9&wsTime=61ab5a90&uid=581998485&seqid=1639138213000.0&t=103&uuid=3608831575&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-吴京_hu1ya,http://tx.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv?wsSecret=fa33b0d055f998786fbc7448c38d8f93&wsTime=61aa090f&uid=581998485&seqid=1639051812000.0&t=103&uuid=3106951875&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+吴京_hu1ya,http://tx.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv?wsSecret=9801fd45d63e4cef1b07505454668058&wsTime=61ab5aa5&uid=581998485&seqid=1639138214000.0&t=103&uuid=3609208850&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-李连杰_hu1ya,http://tx.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv?wsSecret=47ea2a6ca9988cf3fcebcac8dd47f76d&wsTime=61aa0908&uid=581998485&seqid=1639051812000.0&t=103&uuid=3107113128&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+李连杰_hu1ya,http://tx.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv?wsSecret=b72713e42af4615a84d12a9d075929a0&wsTime=61ab5aa6&uid=581998485&seqid=1639138214000.0&t=103&uuid=3609545272&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-释小龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_27869707_27869707_0_0_0-15013_xa_27869707_27869707_0_0_0.m3u8?org=yyweb&uuid=552175144de24b888e255cb81caacf0f&t=1638447013&tk=7bbd3426d1f43320bb6a9171b85eb7b3
+释小龙_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_27869707_27869707_0_0_0-15013_xa_27869707_27869707_0_0_0.m3u8?org=yyweb&uuid=b52a0e314f8a4d5a94a0c79a36a980a8&t=1638533414&tk=2395560954a34cd63f82fd2ed6780607
 
-五福星系列_hu1ya,http://tx.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv?wsSecret=e62e97251ff30a70fa9e1a9af379913e&wsTime=61aa0922&uid=581998485&seqid=1639051813000.0&t=103&uuid=3108210540&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+五福星系列_hu1ya,http://tx.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv?wsSecret=30ab52f3fb54af5da55fec4cda657d8a&wsTime=61ab5aa6&uid=581998485&seqid=1639138215000.0&t=103&uuid=3610452698&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-沈腾_hu1ya,http://tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsSecret=f9e5bbb985be3abf5dcab0b56a8232cd&wsTime=61aa0917&uid=581998485&seqid=1639051814000.0&t=103&uuid=3108666825&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+沈腾_hu1ya,http://tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsSecret=ac12b03124a8bde015106788340fcb43&wsTime=61ab5aa7&uid=581998485&seqid=1639138216000.0&t=103&uuid=3610959106&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-徐峥_hu1ya,http://tx.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv?wsSecret=d8a8c17233b1235513186a8ff10f16ff&wsTime=61aa091d&uid=581998485&seqid=1639051814000.0&t=103&uuid=3108840468&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+徐峥_hu1ya,http://tx.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv?wsSecret=97d16d2d1ac06ae542b426ebb4823c89&wsTime=61ab5a9d&uid=581998485&seqid=1639138216000.0&t=103&uuid=3611153245&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 情景喜剧,#genre#
+
+炊事班的故事_bli,http://192.168.0.113:12345/bilibili/21684683
 
 炊事班的故事2_bli,http://192.168.0.113:12345/bilibili/21354981
 
@@ -302,9 +302,9 @@
 
 炊事班的故事5_dou2yu,http://dyscdnali1.douyucdn.cn/live/9560268riZoKysYT.flv?uuid=
 
-炊事班的故事2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656457_1382656457_0_0_0-15013_xa_1382656457_1382656457_0_0_0.m3u8?org=yyweb&uuid=bb4eeaf78968474281dcdea272929a3a&t=1638447011&tk=9ee6e8662371b006f96199695f04ca82
+炊事班的故事2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382656457_1382656457_0_0_0-15013_xa_1382656457_1382656457_0_0_0.m3u8?org=yyweb&uuid=9d0888f865c447a887221bf4c02ff9ec&t=1638533413&tk=100cb40f7079ddad1f8fc763da0d43d4
 
-炊事班的故事_hu1ya,http://tx.flv.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.flv?wsSecret=04d36aff5f318ab1f4c095e7f07b6910&wsTime=61aa0923&uid=581998485&seqid=1639051812000.0&t=103&uuid=3106306691&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+炊事班的故事_hu1ya,http://tx.flv.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.flv?wsSecret=7b4eacfd4359c83cf4a69fa77df43695&wsTime=61ab5aa5&uid=581998485&seqid=1639138214000.0&t=103&uuid=3609251444&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 地下交通站1_bli,http://192.168.0.113:12345/bilibili/21070039
 
@@ -314,43 +314,35 @@
 
 地下交通站4_dou2yu,http://dyscdnali1.douyucdn.cn/live/6778282rrRMVcqTP.flv?uuid=
 
-地下交通站5_dou2yu,http://dyscdnali1.douyucdn.cn/live/1781666rbt9lKegO.flv?uuid=
+地下交通站_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=1bfcf924847d37bfe864e56bad6ea94a&wsTime=61ab5aaa&uid=581998485&seqid=1639138219000.0&t=103&uuid=3613972464&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-地下交通站_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=3d87487e18ff172901e977e65fcf570e&wsTime=61aa0914&uid=581998485&seqid=1639051816000.0&t=103&uuid=3111264861&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+地下交通站1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_29907996_29907996_0_0_0-15013_xa_29907996_29907996_0_0_0.m3u8?org=yyweb&uuid=a41909cb4704411d80bd1de04f7854ce&t=1638533419&tk=137b353475c39c78f1fdd5cb188dd499
 
-地下交通站1_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_29907996_29907996_0_0_0-15013_xa_29907996_29907996_0_0_0.m3u8?org=yyweb&uuid=346ca1a4001d4168b2e8ef6730a525e5&t=1638447017&tk=02b913a813c86ae82817ab985a5a8b30
-
-地下交通站2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1353428972_1353428972_0_0_0-15013_xa_1353428972_1353428972_0_0_0.m3u8?org=yyweb&uuid=5a60ab820ea94dbd80d5fa7781ddafe6&t=1638447018&tk=838fee3a9a6f5dea62f38e079b6c9d68
+地下交通站2_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1353428972_1353428972_0_0_0-15013_xa_1353428972_1353428972_0_0_0.m3u8?org=yyweb&uuid=316b15fd4a8e40339541f75d11f8d4d8&t=1638533420&tk=51d33fba71e8216802376d707bca46d4
 
 爱情公寓4_dou2yu,http://dyscdnali1.douyucdn.cn/live/2838296rQYVA3pRE.flv?uuid=
 
-爱情公寓5_dou2yu,http://dyscdnali1.douyucdn.cn/live/7812810rjKr2BiMu.flv?uuid=
-
-爱情公寓7_dou2yu,http://dyscdnali1.douyucdn.cn/live/9110905rnGdayGrd.flv?uuid=
+爱情公寓5_dou2yu,http://dyscdnali1.douyucdn.cn/live/7812810rOjEAGIiR.flv?uuid=
 
 爱情公寓1_qie,http://3954-out.liveplay.myqcloud.com/live/3954_322842111.flv?bizid=3954&txSecret=400d0a38be9e7e0cd054523968bd9945&txTime=61b01495
 
-爱情公寓10_qie,http://3954-out.liveplay.myqcloud.com/live/3954_482051453.flv?bizid=3954&txSecret=4fcad55035a3c4cdec47eebf62cede55&txTime=61b04232
+爱情公寓_hu1ya,http://tx.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.flv?wsSecret=049d144388031525a13bb11f65e739fc&wsTime=61ab5ab0&uid=581998485&seqid=1639138225000.0&t=103&uuid=3620010990&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-爱情公寓_hu1ya,http://tx.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.flv?wsSecret=ad99a2eb7918625e2201bcea41039fa2&wsTime=61aa0920&uid=581998485&seqid=1639051824000.0&t=103&uuid=3118797110&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-
-家有儿女_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=12400694270bebac2dca233bdfd04afc&wsTime=61aa0918&uid=581998485&seqid=1639051824000.0&t=103&uuid=3119110202&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+家有儿女_hu1ya,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?wsSecret=4da6c2eb40fdd792a5355293120af472&wsTime=61ab5ab0&uid=581998485&seqid=1639138225000.0&t=103&uuid=3620346816&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 家有儿女3_qie,http://3954-out.liveplay.myqcloud.com/live/3954_142576940.flv?bizid=3954&txSecret=eabfed2c545c785ebce01665c0e6bf34&txTime=61b11c33
 
 家有儿女3_dou2yu,http://dyscdnali1.douyucdn.cn/live/6648727rNSAfeL8s.flv?uuid=
 
-我爱我家1_dou2yu,http://dyscdnali1.douyucdn.cn/live/4871722rzINDLNOP.flv?uuid=
+我爱我家1_dou2yu,http://dyscdnali1.douyucdn.cn/live/4871722r1WHkDz8J.flv?uuid=
 
-我爱我家5_dou2yu,http://dyscdnali1.douyucdn.cn/live/3831627rtjAboDN7.flv?uuid=
+我爱我家5_dou2yu,http://dyscdnali1.douyucdn.cn/live/3831627r3KRg2Tf4.flv?uuid=
 
-我爱我家6_dou2yu,http://dyscdnali1.douyucdn.cn/live/1182226rfZTkp6eI.flv?uuid=
+我爱我家6_dou2yu,http://dyscdnali1.douyucdn.cn/live/1182226rtMtG0OcR.flv?uuid=
 
-我爱我家_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_95017956_95017956_0_0_0-15013_xa_95017956_95017956_0_0_0.m3u8?org=yyweb&uuid=131e2cd18256442bb88c8890d248e9bd&t=1638447031&tk=7d9dead09360e210767389109ad5ede3
+我爱我家_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_95017956_95017956_0_0_0-15013_xa_95017956_95017956_0_0_0.m3u8?org=yyweb&uuid=9148f9c1a02446f99a25adbff469dbaf&t=1638533433&tk=458900734b41582e88fc5ef83f2d11a3
 
 情景喜剧1_dou2yu,http://dyscdnali1.douyucdn.cn/live/3980787rPteuucBO.flv?uuid=
-
-情景喜剧3_dou2yu,http://dyscdnali1.douyucdn.cn/live/240196rh1EOjFWHD.flv?uuid=
 
 闲人马大姐_dou2yu,http://dyscdnali1.douyucdn.cn/live/5658951rHWXrvt7f.flv?uuid=
 
@@ -360,65 +352,67 @@
 
 一起同过窗1音频_bli,http://192.168.0.113:12345/bilibili/23514213
 
+红警1_bli,http://192.168.0.113:12345/bilibili/23614302
+
 雷雨声3_bli,http://192.168.0.113:12345/bilibili/22549164
 
-相声小品5_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1335509613_1335509613_0_0_0-15013_xa_1335509613_1335509613_0_0_0.m3u8?org=yyweb&uuid=4016bcf42094440196b3257968d0e88a&t=1638447009&tk=0b79c50bbc0fef87bb00d6a07e99369f
+相声小品5_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1335509613_1335509613_0_0_0-15013_xa_1335509613_1335509613_0_0_0.m3u8?org=yyweb&uuid=4c3e5181225644588d82174674ed6e2a&t=1638533411&tk=d79be92cc6cae7be20e1d511a98fd47d
 
-相声小品6_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382690289_1382690289_0_0_0-15013_xa_1382690289_1382690289_0_0_0.m3u8?org=yyweb&uuid=6fe4ac7f1ae14724b5580b96f3d6cce5&t=1638447010&tk=1cdd003ca565968af7c581fb8f3480f4
+相声小品6_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382690289_1382690289_0_0_0-15013_xa_1382690289_1382690289_0_0_0.m3u8?org=yyweb&uuid=529b069cc343478f8feb6c55a287332b&t=1638533411&tk=d465959c5e1e41bb3fba0d52dea5e8d1
 
-相声小品7_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_38525272_38525272_0_0_0-15013_xa_38525272_38525272_0_0_0.m3u8?org=yyweb&uuid=0bc19a4040b3476cbe131dc4706ad01c&t=1638447011&tk=ac166d70a2b9a37ece65cafe79acc0af
+相声小品7_YY,https://sslproxy.yy.com:4443/livesystem/15013_xv_38525272_38525272_0_0_0-15013_xa_38525272_38525272_0_0_0.m3u8?org=yyweb&uuid=4666a5d5ff88472d93f96b03721b3bb6&t=1638533412&tk=58f17e0d5f3a2ca84b30d60cda8e311a
 
-相声小品1_hu1ya,http://tx.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.flv?wsSecret=917a1b9da6dc58c45fe9853f1b56cc80&wsTime=61aa091f&uid=581998485&seqid=1639051811000.0&t=103&uuid=3106249109&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+相声小品1_hu1ya,http://tx.flv.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.flv?wsSecret=2f9e037479c5eac2ab58040a15df29bd&wsTime=61ab5aa5&uid=581998485&seqid=1639138214000.0&t=103&uuid=3609111724&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-相声小品2_hu1ya,http://txdirect.flv.huya.com/huyalive/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.flv?wsSecret=1838957d5688df2bbd4b492ec1e6fe33&wsTime=61aa0923&uid=581998485&seqid=1639051812000.0&t=103&uuid=3106552976&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+相声小品2_hu1ya,http://txdirect.flv.huya.com/huyalive/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.flv?wsSecret=77a3fa8c8c208a1dfe973dfcaa818a3b&wsTime=61ab5aa6&uid=581998485&seqid=1639138214000.0&t=103&uuid=3609352964&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 奥雷解说_dou2yu,http://dyscdnali1.douyucdn.cn/live/1224356rYOKq8HBw.flv?uuid=
 
-阿斗解说_hu1ya,http://tx.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.flv?wsSecret=7da8676b417489f449c274f95ef654ba&wsTime=61aa0918&uid=581998485&seqid=1639051814000.0&t=103&uuid=3108965158&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+阿斗解说_hu1ya,http://tx.flv.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.flv?wsSecret=b768e1fbb0484bb6f06eb27a36410cac&wsTime=61ab5aa8&uid=581998485&seqid=1639138216000.0&t=103&uuid=3611756343&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-扁豆看电影解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.flv?wsSecret=546bc9b7ad7bbd1d56e92df2d30b4177&wsTime=61aa0918&uid=581998485&seqid=1639051814000.0&t=103&uuid=3109282843&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+扁豆看电影解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.flv?wsSecret=d751855e41f5816d0b8d58498f4e8944&wsTime=61ab5aa8&uid=581998485&seqid=1639138217000.0&t=103&uuid=3612078895&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 科幻战舰解说_dou2yu,http://dyscdnali1.douyucdn.cn/live/8772060radVVMqBs.flv?uuid=
 
-科幻梦工场解说_hu1ya,http://tx.flv.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.flv?wsSecret=a70051954fef49e6442b0c6cb42a526d&wsTime=61aa0927&uid=581998485&seqid=1639051815000.0&t=103&uuid=3110278157&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+科幻梦工场解说_hu1ya,http://tx.flv.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.flv?wsSecret=fea97c4ae93347d65c6bd95bad52b3c8&wsTime=61ab5aa9&uid=581998485&seqid=1639138218000.0&t=103&uuid=3613211774&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-电影最TOP解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.flv?wsSecret=82e2c087c164305927721e08595b7446&wsTime=61aa0927&uid=581998485&seqid=1639051816000.0&t=103&uuid=3110585795&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+电影最TOP解说_hu1ya,http://txdirect.flv.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.flv?wsSecret=ebe7637d8b583eef61ef73a1768f1792&wsTime=61ab5aaa&uid=581998485&seqid=1639138218000.0&t=103&uuid=3613587655&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-亮哥讲电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1.flv?wsSecret=5ae874e598ab99ed3720ea1c6bc55ad7&wsTime=61aa0927&uid=581998485&seqid=1639051816000.0&t=103&uuid=3110883963&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+亮哥讲电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1.flv?wsSecret=1a57f1cdb376ca69f4cb346a479d8393&wsTime=61ab5aaa&uid=581998485&seqid=1639138218000.0&t=103&uuid=3613949732&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-阿良说美剧解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.flv?wsSecret=9975418745ba831acfaf3e5481737b27&wsTime=61aa0928&uid=581998485&seqid=1639051816000.0&t=103&uuid=3111190013&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+阿良说美剧解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.flv?wsSecret=be18c24b1d0dde94e1244baec4a30ac5&wsTime=61ab5aaa&uid=581998485&seqid=1639138219000.0&t=103&uuid=3614294896&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-非凡武林解说_hu1ya,http://tx.flv.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.flv?wsSecret=68ae47a827e29ae72ec00dd7252ea84d&wsTime=61aa090f&uid=581998485&seqid=1639051817000.0&t=103&uuid=3111395380&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+非凡武林解说_hu1ya,http://tx.flv.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.flv?wsSecret=20bfcc9571be808822c8fd35dfef1d48&wsTime=61ab5aab&uid=581998485&seqid=1639138219000.0&t=103&uuid=3614723051&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-恐怖地带解说_hu1ya,http://tx.flv.huya.com/src/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.flv?wsSecret=aaadf72fad0fe77e1a814679ff2501b3&wsTime=61aa0928&uid=581998485&seqid=1639051817000.0&t=103&uuid=3111701042&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+恐怖地带解说_hu1ya,http://tx.flv.huya.com/src/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.flv?wsSecret=aacbf6c7cf8bf357055007f6b61952de&wsTime=61ab5aab&uid=581998485&seqid=1639138220000.0&t=103&uuid=3615012063&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-越哥说电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1.flv?wsSecret=f1aa30d459feb7188d0791297a5d27ed&wsTime=61aa0928&uid=581998485&seqid=1639051817000.0&t=103&uuid=3112007342&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+越哥说电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2700236716-11597428386678439936-2112795098-10057-A-0-1.flv?wsSecret=56672d835f8574849082861a19585f7c&wsTime=61ab5aac&uid=581998485&seqid=1639138220000.0&t=103&uuid=3615434217&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-李小哇絮叨叨解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.flv?wsSecret=2f75da44fa9b5c470120588edcbd8340&wsTime=61aa0929&uid=581998485&seqid=1639051818000.0&t=103&uuid=3112422607&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+李小哇絮叨叨解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.flv?wsSecret=db247150ac380ed46ac4fc48660c6777&wsTime=61ab5aac&uid=581998485&seqid=1639138220000.0&t=103&uuid=3615709997&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-吾聊电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1.flv?wsSecret=c0d8921e8f56a46427c35dfa4afeacce&wsTime=61aa0929&uid=581998485&seqid=1639051818000.0&t=103&uuid=3112705084&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+吾聊电影解说_hu1ya,http://tx.flv.huya.com/src/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1.flv?wsSecret=131a82210b67e74a0a89ba2a088c6861&wsTime=61ab5aac&uid=581998485&seqid=1639138221000.0&t=103&uuid=3615997152&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-止戈电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.flv?wsSecret=8688a74398586429cf47934db33d752a&wsTime=61aa092a&uid=581998485&seqid=1639051818000.0&t=103&uuid=3113055697&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+止戈电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.flv?wsSecret=f63e1c73b56e53a81ff4eecbc25c3d1f&wsTime=61ab5aac&uid=581998485&seqid=1639138221000.0&t=103&uuid=3616274199&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-小丑讲电影解说_hu1ya,http://txdirect.flv.huya.com/src/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1.flv?wsSecret=376d2e6e8d62e4f7661c24c5f468d2fa&wsTime=61aa0924&uid=581998485&seqid=1639051818000.0&t=103&uuid=3113243569&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+小丑讲电影解说_hu1ya,http://txdirect.flv.huya.com/src/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1.flv?wsSecret=67275c09d2f3597a38425dfb8f89a867&wsTime=61ab5aa5&uid=581998485&seqid=1639138221000.0&t=103&uuid=3616533158&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-青年电影馆解说_hu1ya,http://tx.flv.huya.com/src/1199532722561-1199532722561-5312217316371464192-2399065568578-10057-A-0-1.flv?wsSecret=d205abe817656982d8762b3f11c4c907&wsTime=61aa092a&uid=581998485&seqid=1639051819000.0&t=103&uuid=3113804461&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+青年电影馆解说_hu1ya,http://tx.flv.huya.com/src/1199532722561-1199532722561-5312217316371464192-2399065568578-10057-A-0-1.flv?wsSecret=ead44a4bb8d63e92f1ffb05dadf4685f&wsTime=61ab5aad&uid=581998485&seqid=1639138221000.0&t=103&uuid=3616904417&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-鱼丸说电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1444281068-1444281068-6203139953291952128-4657213132-10057-A-0-1.flv?wsSecret=c891b656fcebacd15721b345ff253e37&wsTime=61aa0928&uid=581998485&seqid=1639051819000.0&t=103&uuid=3114207793&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+鱼丸说电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1444281068-1444281068-6203139953291952128-4657213132-10057-A-0-1.flv?wsSecret=3d42bd377658e4ecb5cf11a64e6479f4&wsTime=61ab5aad&uid=581998485&seqid=1639138222000.0&t=103&uuid=3617272080&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-熊妹撩电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/94525224-2703053314-11609525582974418944-239402834-10057-A-0-1.flv?wsSecret=5e41cd66d7469527e28187f3ac1796e3&wsTime=61aa092b&uid=581998485&seqid=1639051820000.0&t=103&uuid=3115022778&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+熊妹撩电影解说_hu1ya,http://txdirect.flv.huya.com/huyalive/94525224-2703053314-11609525582974418944-239402834-10057-A-0-1.flv?wsSecret=b418b4aa4f9a22c588e1509302de8b38&wsTime=61ab5aae&uid=581998485&seqid=1639138222000.0&t=103&uuid=3617933936&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-鲁班爱看剧解说_hu1ya,http://tx.flv.huya.com/src/1445186641-1445186641-6207029359711092736-4696433912-10057-A-0-1.flv?wsSecret=029efb418cae1f52179065a956ce6842&wsTime=61aa092c&uid=581998485&seqid=1639051821000.0&t=103&uuid=3115371041&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+鲁班爱看剧解说_hu1ya,http://tx.flv.huya.com/src/1445186641-1445186641-6207029359711092736-4696433912-10057-A-0-1.flv?wsSecret=4b6725a16c09952a896a5373dfe524b3&wsTime=61ab5aae&uid=581998485&seqid=1639138223000.0&t=103&uuid=3618249085&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-低调新说解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199527050394-1199527050394-5287855544609013760-2399054224244-10057-A-0-1.flv?wsSecret=618cba10059b440ebef90b405ed2034f&wsTime=61aa092c&uid=581998485&seqid=1639051821000.0&t=103&uuid=3115694939&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+低调新说解说_hu1ya,http://txdirect.flv.huya.com/huyalive/1199527050394-1199527050394-5287855544609013760-2399054224244-10057-A-0-1.flv?wsSecret=72577459f2e8b3552ef5f46d657eec75&wsTime=61ab5aaf&uid=581998485&seqid=1639138223000.0&t=103&uuid=3618590140&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-斌哥动漫解说_hu1ya,http://txdirect.flv.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.flv?wsSecret=acfa371704359ade2efac5551c269526&wsTime=61aa092d&uid=581998485&seqid=1639051821000.0&t=103&uuid=3116250934&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+斌哥动漫解说_hu1ya,http://txdirect.flv.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.flv?wsSecret=31a39f15531f40c734ae4a9109c27fcf&wsTime=61ab5aaf&uid=581998485&seqid=1639138223000.0&t=103&uuid=3618929208&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-音乐小石榴_hu1ya,http://txdirect.flv.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=420a95bc1302876681b18f501ab56452&wsTime=61aa092c&uid=581998485&seqid=1639051822000.0&t=103&uuid=3116922573&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+音乐小石榴_hu1ya,http://txdirect.flv.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.flv?wsSecret=98c60fa680807b3e35bcc7355ba4d9b6&wsTime=61ab5a98&uid=581998485&seqid=1639138224000.0&t=103&uuid=3619471409&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-今晚80后脱口秀_hu1ya,http://txdirect.flv.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.flv?wsSecret=bdcc22522ea3ab7bfe264331dbb27568&wsTime=61aa092e&uid=581998485&seqid=1639051823000.0&t=103&uuid=3117331577&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+今晚80后脱口秀_hu1ya,http://txdirect.flv.huya.com/huyalive/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.flv?wsSecret=e4f72551201493bebe32a26b46fb6c01&wsTime=61ab5ab0&uid=581998485&seqid=1639138224000.0&t=103&uuid=3619743356&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
-野食小哥_hu1ya,http://tx.flv.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.flv?wsSecret=5cb122705ba362d5604404f7e302e9da&wsTime=61aa092e&uid=581998485&seqid=1639051823000.0&t=103&uuid=3117789388&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
+野食小哥_hu1ya,http://tx.flv.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.flv?wsSecret=31ec8383092aa7273212d5ed0f4caf51&wsTime=61ab5ab0&uid=581998485&seqid=1639138225000.0&t=103&uuid=3620042553&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
 
 山药视频_dou2yu,http://dyscdnali1.douyucdn.cn/live/4262598r7eiNBjhQ.flv?uuid=
 
@@ -438,573 +432,585 @@
 
 综合,#genre#
 
-dou2yu1,http://dyscdnali1.douyucdn.cn/live/96577rXmGUu9OEmm.flv?uuid=
+dou2yu1,http://dyscdnali1.douyucdn.cn/live/218859r9FhjG42MY.flv?uuid=
 
-dou2yu2,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+dou2yu2,http://dyscdnali1.douyucdn.cn/live/310926r9JZs8IUaq.flv?uuid=
 
-dou2yu3,http://dyscdnali1.douyucdn.cn/live/4332rnY8kHoxJ7MZ.flv?uuid=
+dou2yu3,http://dyscdnali1.douyucdn.cn/live/1024p.flv?uuid=
 
-dou2yu4,http://dyscdnali1.douyucdn.cn/live/6537888rFxZW1tSI.flv?uuid=
+dou2yu79,http://dyscdnali1.douyucdn.cn/live/8413908rWyxuQhdv.flv?uuid=
 
-dou2yu79,http://dyscdnali1.douyucdn.cn/live/9360149rSHJXOzn9.flv?uuid=
+dou2yu118,http://dyscdnali1.douyucdn.cn/live/8829915rOLKZWCls.flv?uuid=
 
-dou2yu118,http://dyscdnali1.douyucdn.cn/live/9576994rdTPYP2Sz.flv?uuid=
+dou2yu4,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
 
-dou2yu5,http://dyscdnali1.douyucdn.cn/live/3980787rPteuucBO.flv?uuid=
+dou2yu80,http://dyscdnali1.douyucdn.cn/live/9360149rSHJXOzn9.flv?uuid=
 
-dou2yu80,http://dyscdnali1.douyucdn.cn/live/9666219rXhncz8cz.flv?uuid=
+dou2yu157,http://dyscdnali1.douyucdn.cn/live/9573592rrremvNsB.flv?uuid=
 
-dou2yu157,http://dyscdnali1.douyucdn.cn/live/9561992riI5DfER9.flv?uuid=
+dou2yu119,http://dyscdnali1.douyucdn.cn/live/5503962rB2yvMkpR.flv?uuid=
 
-dou2yu119,http://dyscdnali1.douyucdn.cn/live/9393242r6WBI2KIw.flv?uuid=
+dou2yu196,http://dyscdnali1.douyucdn.cn/live/5907076rdTtFfK64.flv?uuid=
 
-dou2yu196,http://dyscdnali1.douyucdn.cn/live/9312685rtZr0ORdg.flv?uuid=
+dou2yu5,http://dyscdnali1.douyucdn.cn/live/9734042rk5ggI52V.flv?uuid=
 
-dou2yu6,http://dyscdnali1.douyucdn.cn/live/6785471rRIegdJqv.flv?uuid=
+dou2yu81,http://dyscdnali1.douyucdn.cn/live/9666219rXhncz8cz.flv?uuid=
 
-dou2yu81,http://dyscdnali1.douyucdn.cn/live/5427842r4yB0DwS6.flv?uuid=
+dou2yu158,http://dyscdnali1.douyucdn.cn/live/8841920rv6alc9ls.flv?uuid=
 
-dou2yu158,http://dyscdnali1.douyucdn.cn/live/3831627rtjAboDN7.flv?uuid=
+dou2yu6,http://dyscdnali1.douyucdn.cn/live/9837291rnWu0qch3.flv?uuid=
 
-dou2yu235,http://dyscdnali1.douyucdn.cn/live/8862501rUFaJf01B.flv?uuid=
+dou2yu235,http://dyscdnali1.douyucdn.cn/live/3770625rHX4gbpJ1.flv?uuid=
 
-dou2yu120,http://dyscdnali1.douyucdn.cn/live/9388783rqSzMjdKT.flv?uuid=
+dou2yu120,http://dyscdnali1.douyucdn.cn/live/9366922rX3gAl5kt.flv?uuid=
 
-dou2yu7,http://dyscdnali1.douyucdn.cn/live/9837291rnWu0qch3.flv?uuid=
+dou2yu7,http://dyscdnali1.douyucdn.cn/live/431460rVVp2EyFk5.flv?uuid=
 
-dou2yu197,http://dyscdnali1.douyucdn.cn/live/9541423rEgYhsuTI.flv?uuid=
+dou2yu197,http://dyscdnali1.douyucdn.cn/live/9396672ra2pO05lO.flv?uuid=
 
-dou2yu8,http://dyscdnali1.douyucdn.cn/live/431460rVVp2EyFk5.flv?uuid=
-
-dou2yu274,http://dyscdnali1.douyucdn.cn/live/8711212rJ9K1FSDO.flv?uuid=
+dou2yu274,http://dyscdnali1.douyucdn.cn/live/9464182rViI1h0mL.flv?uuid=
 
 dou2yu82,http://dyscdnali1.douyucdn.cn/live/8325511rQNKfGwmx.flv?uuid=
 
-dou2yu159,http://dyscdnali1.douyucdn.cn/live/3718888riccJI01H.flv?uuid=
+dou2yu8,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv?uuid=
 
-dou2yu236,http://dyscdnali1.douyucdn.cn/live/4416334r0RdcyELH.flv?uuid=
+dou2yu159,http://dyscdnali1.douyucdn.cn/live/9390955rsYcL8sZN.flv?uuid=
 
-dou2yu9,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+dou2yu236,http://dyscdnali1.douyucdn.cn/live/9312432rN0qfm3Ri.flv?uuid=
 
-dou2yu121,http://dyscdnali1.douyucdn.cn/live/9439594rk7fikOxI.flv?uuid=
+dou2yu9,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 
-dou2yu10,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv?uuid=
+dou2yu121,http://dyscdnali1.douyucdn.cn/live/9576994rdTPYP2Sz.flv?uuid=
 
-dou2yu198,http://dyscdnali1.douyucdn.cn/live/9415755rx0lpdys3.flv?uuid=
+dou2yu198,http://dyscdnali1.douyucdn.cn/live/9312685rtZr0ORdg.flv?uuid=
 
-dou2yu275,http://dyscdnali1.douyucdn.cn/live/9390685rm2NKH9cO.flv?uuid=
+dou2yu10,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
+
+dou2yu275,http://dyscdnali1.douyucdn.cn/live/9272043rk0CKC6PE.flv?uuid=
 
 dou2yu83,http://dyscdnali1.douyucdn.cn/live/8661526rDg8MuSmc.flv?uuid=
 
-dou2yu11,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
+dou2yu160,http://dyscdnali1.douyucdn.cn/live/752376rtaHAtIQ8U.flv?uuid=
 
-dou2yu160,http://dyscdnali1.douyucdn.cn/live/9390955rsYcL8sZN.flv?uuid=
+dou2yu237,http://dyscdnali1.douyucdn.cn/live/8880466rSB223apt.flv?uuid=
 
-dou2yu237,http://dyscdnali1.douyucdn.cn/live/8799435rxo9qaQEK.flv?uuid=
+dou2yu122,http://dyscdnali1.douyucdn.cn/live/9393242r6WBI2KIw.flv?uuid=
 
-dou2yu122,http://dyscdnali1.douyucdn.cn/live/8820996rnKy6ZONW.flv?uuid=
+dou2yu199,http://dyscdnali1.douyucdn.cn/live/9393403riNU9SPAC.flv?uuid=
 
-dou2yu199,http://dyscdnali1.douyucdn.cn/live/9505584rp8Bor33m.flv?uuid=
+dou2yu84,http://dyscdnali1.douyucdn.cn/live/453963rz5tg7yLuz.flv?uuid=
 
-dou2yu276,http://dyscdnali1.douyucdn.cn/live/9488056r8PbX1q6A.flv?uuid=
+dou2yu276,http://dyscdnali1.douyucdn.cn/live/9481484rERkJ1WZy.flv?uuid=
 
-dou2yu84,http://dyscdnali1.douyucdn.cn/live/7623292rffrncYhw.flv?uuid=
+dou2yu238,http://dyscdnali1.douyucdn.cn/live/4285043ryFxi5nHD.flv?uuid=
 
 dou2yu161,http://dyscdnali1.douyucdn.cn/live/8475821rEpppNQkt.flv?uuid=
 
-dou2yu238,http://dyscdnali1.douyucdn.cn/live/9167273r2oS42Tcv.flv?uuid=
+dou2yu123,http://dyscdnali1.douyucdn.cn/live/9484187rAboSyrsa.flv?uuid=
 
-dou2yu123,http://dyscdnali1.douyucdn.cn/live/9441056rtOBPrVf2.flv?uuid=
+dou2yu200,http://dyscdnali1.douyucdn.cn/live/9541423rEgYhsuTI.flv?uuid=
 
-dou2yu200,http://dyscdnali1.douyucdn.cn/live/9396672ra2pO05lO.flv?uuid=
+dou2yu85,http://dyscdnali1.douyucdn.cn/live/9367188roIorDlxs.flv?uuid=
 
-dou2yu277,http://dyscdnali1.douyucdn.cn/live/9371517rOo5GaBh4.flv?uuid=
+dou2yu277,http://dyscdnali1.douyucdn.cn/live/9390685rm2NKH9cO.flv?uuid=
 
-dou2yu85,http://dyscdnali1.douyucdn.cn/live/453963rz5tg7yLuz.flv?uuid=
+dou2yu239,http://dyscdnali1.douyucdn.cn/live/2104744r8TYlOhfZ.flv?uuid=
 
-dou2yu162,http://dyscdnali1.douyucdn.cn/live/97643rtI3SDd3Vl9.flv?uuid=
+dou2yu162,http://dyscdnali1.douyucdn.cn/live/3718888riccJI01H.flv?uuid=
 
-dou2yu239,http://dyscdnali1.douyucdn.cn/live/3770625rHX4gbpJ1.flv?uuid=
+dou2yu124,http://dyscdnali1.douyucdn.cn/live/9439594rk7fikOxI.flv?uuid=
 
-dou2yu124,http://dyscdnali1.douyucdn.cn/live/9484187rAboSyrsa.flv?uuid=
+dou2yu201,http://dyscdnali1.douyucdn.cn/live/8726221rX57errER.flv?uuid=
 
-dou2yu201,http://dyscdnali1.douyucdn.cn/live/827152rbTJyB4BJH.flv?uuid=
+dou2yu86,http://dyscdnali1.douyucdn.cn/live/5427842r4yB0DwS6.flv?uuid=
 
-dou2yu278,http://dyscdnali1.douyucdn.cn/live/9440966rWlLRthdb.flv?uuid=
+dou2yu278,http://dyscdnali1.douyucdn.cn/live/8978669rvTP6HH8z.flv?uuid=
 
-dou2yu86,http://dyscdnali1.douyucdn.cn/live/9367188roIorDlxs.flv?uuid=
+dou2yu240,http://dyscdnali1.douyucdn.cn/live/9457792rwoJ7uI8E.flv?uuid=
 
-dou2yu163,http://dyscdnali1.douyucdn.cn/live/8974130rKBunQT9U.flv?uuid=
+dou2yu163,http://dyscdnali1.douyucdn.cn/live/8828811rBlJe5ih9.flv?uuid=
 
-dou2yu125,http://dyscdnali1.douyucdn.cn/live/5376478ramJKwRko.flv?uuid=
+dou2yu202,http://dyscdnali1.douyucdn.cn/live/8868213rtr5Hdet1.flv?uuid=
 
-dou2yu202,http://dyscdnali1.douyucdn.cn/live/1430176rDCIseGLs.flv?uuid=
-
-dou2yu279,http://dyscdnali1.douyucdn.cn/live/8813254rGGD2MRJg.flv?uuid=
+dou2yu125,http://dyscdnali1.douyucdn.cn/live/9663084r2skm8G7F.flv?uuid=
 
 dou2yu87,http://dyscdnali1.douyucdn.cn/live/9429545r1oau0PNb.flv?uuid=
 
-dou2yu164,http://dyscdnali1.douyucdn.cn/live/8867276rvgdaGQlW.flv?uuid=
+dou2yu279,http://dyscdnali1.douyucdn.cn/live/5055635rgckhZDIQ.flv?uuid=
 
-dou2yu126,http://dyscdnali1.douyucdn.cn/live/9781567rD4EsCloy.flv?uuid=
+dou2yu241,http://dyscdnali1.douyucdn.cn/live/8849703rrw8v68PI.flv?uuid=
 
-dou2yu203,http://dyscdnali1.douyucdn.cn/live/9393403riNU9SPAC.flv?uuid=
+dou2yu164,http://dyscdnali1.douyucdn.cn/live/8974130rKBunQT9U.flv?uuid=
 
-dou2yu88,http://dyscdnali1.douyucdn.cn/live/8821917rfrUwI555.flv?uuid=
+dou2yu126,http://dyscdnali1.douyucdn.cn/live/9388783rqSzMjdKT.flv?uuid=
 
-dou2yu280,http://dyscdnali1.douyucdn.cn/live/9371407r50mGQWBI.flv?uuid=
+dou2yu203,http://dyscdnali1.douyucdn.cn/live/9415755rx0lpdys3.flv?uuid=
 
-dou2yu165,http://dyscdnali1.douyucdn.cn/live/7532080r67QDKE7v.flv?uuid=
+dou2yu88,http://dyscdnali1.douyucdn.cn/live/9443552r2YTCdFrk.flv?uuid=
 
-dou2yu127,http://dyscdnali1.douyucdn.cn/live/9663084r2skm8G7F.flv?uuid=
+dou2yu280,http://dyscdnali1.douyucdn.cn/live/9820039r0dCCpLlP.flv?uuid=
 
-dou2yu204,http://dyscdnali1.douyucdn.cn/live/8726221rX57errER.flv?uuid=
+dou2yu242,http://dyscdnali1.douyucdn.cn/live/9336437rXO53srpB.flv?uuid=
 
-dou2yu89,http://dyscdnali1.douyucdn.cn/live/9674566r9wPYJZvF.flv?uuid=
+dou2yu165,http://dyscdnali1.douyucdn.cn/live/97643rtI3SDd3Vl9.flv?uuid=
 
-dou2yu281,http://dyscdnali1.douyucdn.cn/live/9455518rDf1DHSC2.flv?uuid=
+dou2yu204,http://dyscdnali1.douyucdn.cn/live/9505584rp8Bor33m.flv?uuid=
 
-dou2yu166,http://dyscdnali1.douyucdn.cn/live/9375743r1x0sXu7w.flv?uuid=
+dou2yu127,http://dyscdnali1.douyucdn.cn/live/9441056rtOBPrVf2.flv?uuid=
 
-dou2yu128,http://dyscdnali1.douyucdn.cn/live/9564766rsXqJ0AjS.flv?uuid=
+dou2yu89,http://dyscdnali1.douyucdn.cn/live/8821917rfrUwI555.flv?uuid=
 
-dou2yu205,http://dyscdnali1.douyucdn.cn/live/8868213rtr5Hdet1.flv?uuid=
+dou2yu281,http://dyscdnali1.douyucdn.cn/live/9356637rYBZljjNP.flv?uuid=
 
-dou2yu282,http://dyscdnali1.douyucdn.cn/live/9272043rk0CKC6PE.flv?uuid=
+dou2yu243,http://dyscdnali1.douyucdn.cn/live/8774345rcLRkuQ0G.flv?uuid=
 
-dou2yu167,http://dyscdnali1.douyucdn.cn/live/8762120rGSwtuZ5V.flv?uuid=
+dou2yu166,http://dyscdnali1.douyucdn.cn/live/8867276rvgdaGQlW.flv?uuid=
 
-dou2yu90,http://dyscdnali1.douyucdn.cn/live/9443552r2YTCdFrk.flv?uuid=
+dou2yu205,http://dyscdnali1.douyucdn.cn/live/827152rbTJyB4BJH.flv?uuid=
 
-dou2yu129,http://dyscdnali1.douyucdn.cn/live/9541849rRIbrMEV3.flv?uuid=
+dou2yu128,http://dyscdnali1.douyucdn.cn/live/5376478ramJKwRko.flv?uuid=
 
-dou2yu283,http://dyscdnali1.douyucdn.cn/live/9660704rjiDkwaTW.flv?uuid=
+dou2yu90,http://dyscdnali1.douyucdn.cn/live/9674566r9wPYJZvF.flv?uuid=
 
-dou2yu91,http://dyscdnali1.douyucdn.cn/live/549693rs4bKEXOIq.flv?uuid=
+dou2yu282,http://dyscdnali1.douyucdn.cn/live/8711212rJ9K1FSDO.flv?uuid=
 
-dou2yu168,http://dyscdnali1.douyucdn.cn/live/9370168rNb6EtLPP.flv?uuid=
+dou2yu244,http://dyscdnali1.douyucdn.cn/live/9650181rBrDHchIR.flv?uuid=
 
-dou2yu130,http://dyscdnali1.douyucdn.cn/live/8842108r6WVg61IW.flv?uuid=
+dou2yu167,http://dyscdnali1.douyucdn.cn/live/9375743r1x0sXu7w.flv?uuid=
 
-dou2yu284,http://dyscdnali1.douyucdn.cn/live/9535657rB4E20xjV.flv?uuid=
+dou2yu206,http://dyscdnali1.douyucdn.cn/live/1430176rZVtHjRtd.flv?uuid=
 
-dou2yu92,http://dyscdnali1.douyucdn.cn/live/9368016rVay2Pg4Y.flv?uuid=
+dou2yu129,http://dyscdnali1.douyucdn.cn/live/8820996rnKy6ZONW.flv?uuid=
 
-dou2yu169,http://dyscdnali1.douyucdn.cn/live/6725858rZwd1uPN6.flv?uuid=
+dou2yu91,http://dyscdnali1.douyucdn.cn/live/9395966rGWaeAin6.flv?uuid=
 
-dou2yu131,http://dyscdnali1.douyucdn.cn/live/9366922rX3gAl5kt.flv?uuid=
+dou2yu283,http://dyscdnali1.douyucdn.cn/live/9483965rKnCu6unw.flv?uuid=
 
-dou2yu285,http://dyscdnali1.douyucdn.cn/live/9483965rKnCu6unw.flv?uuid=
+dou2yu245,http://dyscdnali1.douyucdn.cn/live/8829706rAYlw02Mi.flv?uuid=
 
-dou2yu93,http://dyscdnali1.douyucdn.cn/live/9395966rGWaeAin6.flv?uuid=
+dou2yu168,http://dyscdnali1.douyucdn.cn/live/7532080r67QDKE7v.flv?uuid=
 
-dou2yu170,http://dyscdnali1.douyucdn.cn/live/8828811rBlJe5ih9.flv?uuid=
+dou2yu130,http://dyscdnali1.douyucdn.cn/live/9564766rsXqJ0AjS.flv?uuid=
 
-dou2yu132,http://dyscdnali1.douyucdn.cn/live/6581531rFQ4PbUO3.flv?uuid=
+dou2yu92,http://dyscdnali1.douyucdn.cn/live/549693rs4bKEXOIq.flv?uuid=
 
-dou2yu286,http://dyscdnali1.douyucdn.cn/live/9619048r6RydtnkL.flv?uuid=
+dou2yu284,http://dyscdnali1.douyucdn.cn/live/9665834rmvZMe1Qz.flv?uuid=
+
+dou2yu246,http://dyscdnali1.douyucdn.cn/live/8851063rh1QzB4IY.flv?uuid=
+
+dou2yu169,http://dyscdnali1.douyucdn.cn/live/9370168rNb6EtLPP.flv?uuid=
+
+dou2yu131,http://dyscdnali1.douyucdn.cn/live/8842108r6WVg61IW.flv?uuid=
+
+dou2yu93,http://dyscdnali1.douyucdn.cn/live/9368016rVay2Pg4Y.flv?uuid=
+
+dou2yu285,http://dyscdnali1.douyucdn.cn/live/9444627rh74yRw0V.flv?uuid=
+
+dou2yu247,http://dyscdnali1.douyucdn.cn/live/9548279rvTynCRID.flv?uuid=
+
+dou2yu170,http://dyscdnali1.douyucdn.cn/live/8762120rGSwtuZ5V.flv?uuid=
+
+dou2yu132,http://dyscdnali1.douyucdn.cn/live/9541849rRIbrMEV3.flv?uuid=
 
 dou2yu94,http://dyscdnali1.douyucdn.cn/live/9440460ryfEtuALA.flv?uuid=
 
-dou2yu171,http://dyscdnali1.douyucdn.cn/live/9191006rdg7XUbGo.flv?uuid=
+dou2yu248,http://dyscdnali1.douyucdn.cn/live/9028721rEjlFXWfQ.flv?uuid=
 
-dou2yu133,http://dyscdnali1.douyucdn.cn/live/7642724rCrI27XzL.flv?uuid=
+dou2yu171,http://dyscdnali1.douyucdn.cn/live/6725858rZwd1uPN6.flv?uuid=
 
-dou2yu287,http://dyscdnali1.douyucdn.cn/live/4049310rDZxadV0r.flv?uuid=
+dou2yu133,http://dyscdnali1.douyucdn.cn/live/9781567rD4EsCloy.flv?uuid=
 
-dou2yu95,http://dyscdnali1.douyucdn.cn/live/5503962rB2yvMkpR.flv?uuid=
+dou2yu95,http://dyscdnali1.douyucdn.cn/live/7623292reyQx8DXZ.flv?uuid=
 
-dou2yu172,http://dyscdnali1.douyucdn.cn/live/9371308r0t90k8Ma.flv?uuid=
+dou2yu249,http://dyscdnali1.douyucdn.cn/live/3498219rr8OQUA4W.flv?uuid=
 
 dou2yu134,http://dyscdnali1.douyucdn.cn/live/8768613r27BlybUV.flv?uuid=
 
-dou2yu96,http://dyscdnali1.douyucdn.cn/live/5429211r98RgJXul.flv?uuid=
+dou2yu172,http://dyscdnali1.douyucdn.cn/live/9606419ruLwM2sFY.flv?uuid=
 
-dou2yu288,http://dyscdnali1.douyucdn.cn/live/9329242rSUMO1scj.flv?uuid=
+dou2yu96,http://dyscdnali1.douyucdn.cn/live/7136517r09HHCbEu.flv?uuid=
 
-dou2yu173,http://dyscdnali1.douyucdn.cn/live/9396762rQIJ4PWbD.flv?uuid=
+dou2yu250,http://dyscdnali1.douyucdn.cn/live/9442980rOXVKGN2c.flv?uuid=
 
-dou2yu135,http://dyscdnali1.douyucdn.cn/live/6610883rHcryBuGK.flv?uuid=
+dou2yu135,http://dyscdnali1.douyucdn.cn/live/7642724rCrI27XzL.flv?uuid=
 
-dou2yu97,http://dyscdnali1.douyucdn.cn/live/2164691rTv1V98UA.flv?uuid=
+dou2yu173,http://dyscdnali1.douyucdn.cn/live/8833450rs5EvubeZ.flv?uuid=
 
-dou2yu289,http://dyscdnali1.douyucdn.cn/live/8849703rrw8v68PI.flv?uuid=
+dou2yu97,http://dyscdnali1.douyucdn.cn/live/5429211r98RgJXul.flv?uuid=
 
-dou2yu174,http://dyscdnali1.douyucdn.cn/live/8833450rs5EvubeZ.flv?uuid=
+dou2yu251,http://dyscdnali1.douyucdn.cn/live/8975282rNggUQFsC.flv?uuid=
 
-dou2yu136,http://dyscdnali1.douyucdn.cn/live/2365rXR13xAa07xs.flv?uuid=
+dou2yu136,http://dyscdnali1.douyucdn.cn/live/6581531rFQ4PbUO3.flv?uuid=
 
-dou2yu98,http://dyscdnali1.douyucdn.cn/live/7136517r09HHCbEu.flv?uuid=
+dou2yu174,http://dyscdnali1.douyucdn.cn/live/9191006rdg7XUbGo.flv?uuid=
 
-dou2yu175,http://dyscdnali1.douyucdn.cn/live/9606419ruLwM2sFY.flv?uuid=
+dou2yu98,http://dyscdnali1.douyucdn.cn/live/2164691rTv1V98UA.flv?uuid=
 
-dou2yu290,http://dyscdnali1.douyucdn.cn/live/9046649r9VkpxMgV.flv?uuid=
+dou2yu252,http://dyscdnali1.douyucdn.cn/live/9455518rDf1DHSC2.flv?uuid=
 
-dou2yu137,http://dyscdnali1.douyucdn.cn/live/3627728r6VDFK5lM.flv?uuid=
+dou2yu137,http://dyscdnali1.douyucdn.cn/live/2365rcbj4B4lBMXh.flv?uuid=
+
+dou2yu175,http://dyscdnali1.douyucdn.cn/live/9371308r0t90k8Ma.flv?uuid=
 
 dou2yu99,http://dyscdnali1.douyucdn.cn/live/9401305rrdCdGQkB.flv?uuid=
 
-dou2yu176,http://dyscdnali1.douyucdn.cn/live/9495454r4SLVj7gg.flv?uuid=
+dou2yu253,http://dyscdnali1.douyucdn.cn/live/9660704rjiDkwaTW.flv?uuid=
 
-dou2yu291,http://dyscdnali1.douyucdn.cn/live/9371441rVOPife1H.flv?uuid=
+dou2yu176,http://dyscdnali1.douyucdn.cn/live/9396762rQIJ4PWbD.flv?uuid=
 
-dou2yu138,http://dyscdnali1.douyucdn.cn/live/465761rJLsf0TstI.flv?uuid=
+dou2yu138,http://dyscdnali1.douyucdn.cn/live/3627728r6VDFK5lM.flv?uuid=
 
 dou2yu100,http://dyscdnali1.douyucdn.cn/live/9644669rktW2LZAf.flv?uuid=
 
-dou2yu177,http://dyscdnali1.douyucdn.cn/live/9450568rG6AqNDVY.flv?uuid=
+dou2yu254,http://dyscdnali1.douyucdn.cn/live/2519745r367mrJyg.flv?uuid=
 
-dou2yu292,http://dyscdnali1.douyucdn.cn/live/8829706rAYlw02Mi.flv?uuid=
+dou2yu177,http://dyscdnali1.douyucdn.cn/live/9495454r4SLVj7gg.flv?uuid=
 
-dou2yu139,http://dyscdnali1.douyucdn.cn/live/6655271rZGz3kbxN.flv?uuid=
+dou2yu139,http://dyscdnali1.douyucdn.cn/live/3990812r6btbchEb.flv?uuid=
 
 dou2yu101,http://dyscdnali1.douyucdn.cn/live/3643605ru2ixVbDX.flv?uuid=
 
-dou2yu140,http://dyscdnali1.douyucdn.cn/live/252536rpnzZKhgWb.flv?uuid=
+dou2yu255,http://dyscdnali1.douyucdn.cn/live/9481137rjtn0BQX5.flv?uuid=
 
-dou2yu293,http://dyscdnali1.douyucdn.cn/live/9439309roZ8IeevO.flv?uuid=
+dou2yu178,http://dyscdnali1.douyucdn.cn/live/9450568rG6AqNDVY.flv?uuid=
 
-dou2yu178,http://dyscdnali1.douyucdn.cn/live/9717093rOQwqLeDu.flv?uuid=
+dou2yu140,http://dyscdnali1.douyucdn.cn/live/6610883rHcryBuGK.flv?uuid=
 
 dou2yu102,http://dyscdnali1.douyucdn.cn/live/9442430rZHZMt1Rk.flv?uuid=
 
-dou2yu141,http://dyscdnali1.douyucdn.cn/live/7356023r6kfq5ME3.flv?uuid=
+dou2yu256,http://dyscdnali1.douyucdn.cn/live/8706393rVkGkQbX9.flv?uuid=
 
-dou2yu294,http://dyscdnali1.douyucdn.cn/live/9336437rXO53srpB.flv?uuid=
+dou2yu179,http://dyscdnali1.douyucdn.cn/live/3831627r3KRg2Tf4.flv?uuid=
 
-dou2yu179,http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=
+dou2yu141,http://dyscdnali1.douyucdn.cn/live/465761rJLsf0TstI.flv?uuid=
 
 dou2yu103,http://dyscdnali1.douyucdn.cn/live/9569905r28as1j6M.flv?uuid=
 
-dou2yu142,http://dyscdnali1.douyucdn.cn/live/3508538rlkHNm8m6.flv?uuid=
+dou2yu257,http://dyscdnali1.douyucdn.cn/live/9199976r3FB7JRgJ.flv?uuid=
 
-dou2yu180,http://dyscdnali1.douyucdn.cn/live/675072rkQUb5buAF.flv?uuid=
+dou2yu180,http://dyscdnali1.douyucdn.cn/live/9717093rOQwqLeDu.flv?uuid=
 
-dou2yu295,http://dyscdnali1.douyucdn.cn/live/9650181rBrDHchIR.flv?uuid=
+dou2yu142,http://dyscdnali1.douyucdn.cn/live/7356023r6kfq5ME3.flv?uuid=
 
-dou2yu104,http://dyscdnali1.douyucdn.cn/live/4400816riNnblV3q.flv?uuid=
+dou2yu104,http://dyscdnali1.douyucdn.cn/live/5354713rZrPXSgbM.flv?uuid=
 
-dou2yu143,http://dyscdnali1.douyucdn.cn/live/3714736rd9vlgC15.flv?uuid=
+dou2yu258,http://dyscdnali1.douyucdn.cn/live/9368265rpCr2HXu0.flv?uuid=
 
-dou2yu296,http://dyscdnali1.douyucdn.cn/live/9368265rpCr2HXu0.flv?uuid=
+dou2yu181,http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv?uuid=
 
-dou2yu181,http://dyscdnali1.douyucdn.cn/live/9826611rtrmI2Ces.flv?uuid=
+dou2yu143,http://dyscdnali1.douyucdn.cn/live/3508538rlkHNm8m6.flv?uuid=
 
-dou2yu105,http://dyscdnali1.douyucdn.cn/live/5187099rAKf8L2cY.flv?uuid=
+dou2yu105,http://dyscdnali1.douyucdn.cn/live/3506483rQpaiHWf2.flv?uuid=
 
-dou2yu144,http://dyscdnali1.douyucdn.cn/live/9444320r9A0owjzQ.flv?uuid=
+dou2yu259,http://dyscdnali1.douyucdn.cn/live/9736479rzypVIswi.flv?uuid=
 
-dou2yu297,http://dyscdnali1.douyucdn.cn/live/9463586rxbQPdFVI.flv?uuid=
+dou2yu182,http://dyscdnali1.douyucdn.cn/live/9826611rtrmI2Ces.flv?uuid=
 
-dou2yu182,http://dyscdnali1.douyucdn.cn/live/9822277r8Tb3RXOT.flv?uuid=
+dou2yu144,http://dyscdnali1.douyucdn.cn/live/6655271rZGz3kbxN.flv?uuid=
 
-dou2yu106,http://dyscdnali1.douyucdn.cn/live/3506483rQpaiHWf2.flv?uuid=
+dou2yu106,http://dyscdnali1.douyucdn.cn/live/4400816riNnblV3q.flv?uuid=
 
-dou2yu145,http://dyscdnali1.douyucdn.cn/live/3700024rpw4YsCWm.flv?uuid=
+dou2yu260,http://dyscdnali1.douyucdn.cn/live/9433806rTnnMJmtE.flv?uuid=
 
-dou2yu183,http://dyscdnali1.douyucdn.cn/live/8371123rUQdarpgP.flv?uuid=
+dou2yu183,http://dyscdnali1.douyucdn.cn/live/675072rkQUb5buAF.flv?uuid=
 
-dou2yu298,http://dyscdnali1.douyucdn.cn/live/9356937r09los8mz.flv?uuid=
+dou2yu145,http://dyscdnali1.douyucdn.cn/live/3714736rd9vlgC15.flv?uuid=
 
-dou2yu107,http://dyscdnali1.douyucdn.cn/live/5067952r2CTNPZcC.flv?uuid=
+dou2yu107,http://dyscdnali1.douyucdn.cn/live/5187099rAKf8L2cY.flv?uuid=
 
-dou2yu146,http://dyscdnali1.douyucdn.cn/live/421222rvxdnQZaFs.flv?uuid=
+dou2yu261,http://dyscdnali1.douyucdn.cn/live/8816671rHDxxIRGJ.flv?uuid=
 
-dou2yu184,http://dyscdnali1.douyucdn.cn/live/9652323rj1kYO86K.flv?uuid=
+dou2yu184,http://dyscdnali1.douyucdn.cn/live/9822277r8Tb3RXOT.flv?uuid=
 
-dou2yu299,http://dyscdnali1.douyucdn.cn/live/8896743rmuU8Y7dI.flv?uuid=
+dou2yu146,http://dyscdnali1.douyucdn.cn/live/3700024rpw4YsCWm.flv?uuid=
 
-dou2yu108,http://dyscdnali1.douyucdn.cn/live/9544628rYYbm5Bbz.flv?uuid=
+dou2yu108,http://dyscdnali1.douyucdn.cn/live/5067952r2CTNPZcC.flv?uuid=
 
-dou2yu147,http://dyscdnali1.douyucdn.cn/live/9560268riZoKysYT.flv?uuid=
+dou2yu262,http://dyscdnali1.douyucdn.cn/live/9371441rVOPife1H.flv?uuid=
 
-dou2yu185,http://dyscdnali1.douyucdn.cn/live/9970047rUKjfrJ9S.flv?uuid=
+dou2yu185,http://dyscdnali1.douyucdn.cn/live/9652323rj1kYO86K.flv?uuid=
 
-dou2yu300,http://dyscdnali1.douyucdn.cn/live/9356637rYBZljjNP.flv?uuid=
+dou2yu147,http://dyscdnali1.douyucdn.cn/live/9444320rTtjR2MAG.flv?uuid=
 
-dou2yu109,http://dyscdnali1.douyucdn.cn/live/5354713rZrPXSgbM.flv?uuid=
+dou2yu109,http://dyscdnali1.douyucdn.cn/live/252536rpnzZKhgWb.flv?uuid=
 
-dou2yu148,http://dyscdnali1.douyucdn.cn/live/8808506r651LCy7j.flv?uuid=
+dou2yu263,http://dyscdnali1.douyucdn.cn/live/8884074r3bbVISFp.flv?uuid=
 
-dou2yu186,http://dyscdnali1.douyucdn.cn/live/8380708rlMyxNHty.flv?uuid=
+dou2yu186,http://dyscdnali1.douyucdn.cn/live/9970047rUKjfrJ9S.flv?uuid=
 
-dou2yu301,http://dyscdnali1.douyucdn.cn/live/9039399rfZ10OKRM.flv?uuid=
+dou2yu148,http://dyscdnali1.douyucdn.cn/live/421222rvxdnQZaFs.flv?uuid=
 
-dou2yu110,http://dyscdnali1.douyucdn.cn/live/8884164rEMJxa6VK.flv?uuid=
+dou2yu110,http://dyscdnali1.douyucdn.cn/live/9544628rYYbm5Bbz.flv?uuid=
 
-dou2yu187,http://dyscdnali1.douyucdn.cn/live/7353112r2esPNukv.flv?uuid=
-
-dou2yu149,http://dyscdnali1.douyucdn.cn/live/8413226rFkTUXyuv.flv?uuid=
-
-dou2yu302,http://dyscdnali1.douyucdn.cn/live/9444627rh74yRw0V.flv?uuid=
+dou2yu264,http://dyscdnali1.douyucdn.cn/live/9463586rxbQPdFVI.flv?uuid=
 
 dou2yu111,http://dyscdnali1.douyucdn.cn/live/8936207r6I99Ljsv.flv?uuid=
 
-dou2yu150,http://dyscdnali1.douyucdn.cn/live/9437349rPZv3kDrD.flv?uuid=
+dou2yu265,http://dyscdnali1.douyucdn.cn/live/9769563raUUw1O6S.flv?uuid=
 
-dou2yu112,http://dyscdnali1.douyucdn.cn/live/532050rmMH1eBeaN.flv?uuid=
+dou2yu149,http://dyscdnali1.douyucdn.cn/live/8808506r651LCy7j.flv?uuid=
 
-dou2yu303,http://dyscdnali1.douyucdn.cn/live/8884074r3bbVISFp.flv?uuid=
+dou2yu112,http://dyscdnali1.douyucdn.cn/live/8884164rEMJxa6VK.flv?uuid=
 
-dou2yu151,http://dyscdnali1.douyucdn.cn/live/8758482rxFoOC97S.flv?uuid=
+dou2yu266,http://dyscdnali1.douyucdn.cn/live/3432645rOxEbIxt1.flv?uuid=
 
-dou2yu304,http://dyscdnali1.douyucdn.cn/live/9199976r3FB7JRgJ.flv?uuid=
+dou2yu150,http://dyscdnali1.douyucdn.cn/live/8413226r7lcLBQ5K.flv?uuid=
 
-dou2yu113,http://dyscdnali1.douyucdn.cn/live/9430717r4lzajxls.flv?uuid=
+dou2yu113,http://dyscdnali1.douyucdn.cn/live/532050rmMH1eBeaN.flv?uuid=
 
-dou2yu152,http://dyscdnali1.douyucdn.cn/live/9660835ruSMVVDFg.flv?uuid=
+dou2yu267,http://dyscdnali1.douyucdn.cn/live/1842621rQv8udq0s.flv?uuid=
 
-dou2yu305,http://dyscdnali1.douyucdn.cn/live/3432645rOxEbIxt1.flv?uuid=
+dou2yu151,http://dyscdnali1.douyucdn.cn/live/9437349rPZv3kDrD.flv?uuid=
 
-dou2yu114,http://dyscdnali1.douyucdn.cn/live/9406600r3JwHdzJx.flv?uuid=
+dou2yu114,http://dyscdnali1.douyucdn.cn/live/9430717r4lzajxls.flv?uuid=
 
-dou2yu153,http://dyscdnali1.douyucdn.cn/live/9573592rrremvNsB.flv?uuid=
+dou2yu268,http://dyscdnali1.douyucdn.cn/live/9023539r48110NAG.flv?uuid=
 
-dou2yu306,http://dyscdnali1.douyucdn.cn/live/8221699rehwE61yy.flv?uuid=
+dou2yu152,http://dyscdnali1.douyucdn.cn/live/9560268riZoKysYT.flv?uuid=
 
-dou2yu115,http://dyscdnali1.douyucdn.cn/live/9458345r4OMIA5av.flv?uuid=
+dou2yu115,http://dyscdnali1.douyucdn.cn/live/9611771rszzjAI4I.flv?uuid=
 
-dou2yu154,http://dyscdnali1.douyucdn.cn/live/9486015rKAnWxZ8s.flv?uuid=
+dou2yu269,http://dyscdnali1.douyucdn.cn/live/9437283rtYPRCsu1.flv?uuid=
 
-dou2yu307,http://dyscdnali1.douyucdn.cn/live/9820039r0dCCpLlP.flv?uuid=
+dou2yu153,http://dyscdnali1.douyucdn.cn/live/9660835ruSMVVDFg.flv?uuid=
 
-dou2yu116,http://dyscdnali1.douyucdn.cn/live/9611771rszzjAI4I.flv?uuid=
+dou2yu116,http://dyscdnali1.douyucdn.cn/live/9406600r3JwHdzJx.flv?uuid=
 
-dou2yu155,http://dyscdnali1.douyucdn.cn/live/8841920rv6alc9ls.flv?uuid=
+dou2yu270,http://dyscdnali1.douyucdn.cn/live/9440966rWlLRthdb.flv?uuid=
 
-dou2yu308,http://dyscdnali1.douyucdn.cn/live/5124602rZuK847zC.flv?uuid=
+dou2yu154,http://dyscdnali1.douyucdn.cn/live/9561992riI5DfER9.flv?uuid=
 
-dou2yu117,http://dyscdnali1.douyucdn.cn/live/8829915rOLKZWCls.flv?uuid=
+dou2yu117,http://dyscdnali1.douyucdn.cn/live/9458345r4OMIA5av.flv?uuid=
 
-dou2yu156,http://dyscdnali1.douyucdn.cn/live/752376rtaHAtIQ8U.flv?uuid=
+dou2yu271,http://dyscdnali1.douyucdn.cn/live/9371407r50mGQWBI.flv?uuid=
 
-dou2yu309,http://dyscdnali1.douyucdn.cn/live/1690081rpZVA12h1.flv?uuid=
+dou2yu155,http://dyscdnali1.douyucdn.cn/live/8758482rxFoOC97S.flv?uuid=
 
-dou2yu310,http://dyscdnali1.douyucdn.cn/live/8896746r8S9QSZBW.flv?uuid=
+dou2yu272,http://dyscdnali1.douyucdn.cn/live/4407750rx2cNDH6R.flv?uuid=
+
+dou2yu156,http://dyscdnali1.douyucdn.cn/live/9486015rKAnWxZ8s.flv?uuid=
+
+dou2yu273,http://dyscdnali1.douyucdn.cn/live/8221699rehwE61yy.flv?uuid=
 
 bli0,http://192.168.0.113:12345/bilibili/10375360
 
-bli23,http://192.168.0.113:12345/bilibili/21360358
+bli23,http://192.168.0.113:12345/bilibili/503320
 
-bli46,http://192.168.0.113:12345/bilibili/15131066
+bli46,http://192.168.0.113:12345/bilibili/3315574
 
-bli69,http://192.168.0.113:12345/bilibili/3091485
+bli69,http://192.168.0.113:12345/bilibili/22765729
 
-bli92,http://192.168.0.113:12345/bilibili/13733104
+bli92,http://192.168.0.113:12345/bilibili/3898905
 
 bli1,http://192.168.0.113:12345/bilibili/11579951
 
-bli24,http://192.168.0.113:12345/bilibili/23666899
+bli24,http://192.168.0.113:12345/bilibili/11224983
 
-bli47,http://192.168.0.113:12345/bilibili/23356694
+bli47,http://192.168.0.113:12345/bilibili/7251976
 
-bli70,http://192.168.0.113:12345/bilibili/1546352
+bli70,http://192.168.0.113:12345/bilibili/23870789
 
-bli2,http://192.168.0.113:12345/bilibili/1895574
+bli93,http://192.168.0.113:12345/bilibili/1308087
 
-bli93,http://192.168.0.113:12345/bilibili/21397541
+bli2,http://192.168.0.113:12345/bilibili/47917
 
-bli25,http://192.168.0.113:12345/bilibili/22683218
+bli25,http://192.168.0.113:12345/bilibili/4089143
 
 bli48,http://192.168.0.113:12345/bilibili/23433709
 
-bli71,http://192.168.0.113:12345/bilibili/21751462
+bli71,http://192.168.0.113:12345/bilibili/3294844
 
-bli3,http://192.168.0.113:12345/bilibili/70155
+bli3,http://192.168.0.113:12345/bilibili/1895574
 
-bli94,http://192.168.0.113:12345/bilibili/1308087
+bli94,http://192.168.0.113:12345/bilibili/13650659
 
-bli26,http://192.168.0.113:12345/bilibili/5960549
+bli26,http://192.168.0.113:12345/bilibili/22070492
 
-bli49,http://192.168.0.113:12345/bilibili/1324160
+bli49,http://192.168.0.113:12345/bilibili/23310891
 
-bli72,http://192.168.0.113:12345/bilibili/3969440
+bli72,http://192.168.0.113:12345/bilibili/23825720
 
-bli4,http://192.168.0.113:12345/bilibili/47917
+bli4,http://192.168.0.113:12345/bilibili/70155
 
-bli95,http://192.168.0.113:12345/bilibili/23897625
-
-bli50,http://192.168.0.113:12345/bilibili/765452
+bli95,http://192.168.0.113:12345/bilibili/21236987
 
 bli27,http://192.168.0.113:12345/bilibili/21759196
 
-bli73,http://192.168.0.113:12345/bilibili/22765729
+bli50,http://192.168.0.113:12345/bilibili/472369
 
-bli5,http://192.168.0.113:12345/bilibili/3880983
+bli73,http://192.168.0.113:12345/bilibili/23490613
 
-bli96,http://192.168.0.113:12345/bilibili/23825469
+bli96,http://192.168.0.113:12345/bilibili/23878140
 
-bli51,http://192.168.0.113:12345/bilibili/7251976
+bli5,http://192.168.0.113:12345/bilibili/21448296
 
-bli74,http://192.168.0.113:12345/bilibili/6708089
+bli28,http://192.168.0.113:12345/bilibili/127343
 
-bli28,http://192.168.0.113:12345/bilibili/49132
+bli51,http://192.168.0.113:12345/bilibili/9742831
 
-bli6,http://192.168.0.113:12345/bilibili/21614203
+bli74,http://192.168.0.113:12345/bilibili/3155329
 
-bli97,http://192.168.0.113:12345/bilibili/21950604
+bli6,http://192.168.0.113:12345/bilibili/21570935
 
-bli52,http://192.168.0.113:12345/bilibili/6195869
+bli97,http://192.168.0.113:12345/bilibili/23448684
 
-bli75,http://192.168.0.113:12345/bilibili/3026533
+bli29,http://192.168.0.113:12345/bilibili/22683218
 
-bli29,http://192.168.0.113:12345/bilibili/22216183
+bli52,http://192.168.0.113:12345/bilibili/1402698
 
-bli7,http://192.168.0.113:12345/bilibili/1024814
+bli75,http://192.168.0.113:12345/bilibili/23417532
 
-bli98,http://192.168.0.113:12345/bilibili/23448684
+bli7,http://192.168.0.113:12345/bilibili/21614203
 
-bli53,http://192.168.0.113:12345/bilibili/9742831
+bli98,http://192.168.0.113:12345/bilibili/8001950
 
-bli76,http://192.168.0.113:12345/bilibili/23870789
+bli30,http://192.168.0.113:12345/bilibili/21070400
 
-bli30,http://192.168.0.113:12345/bilibili/127343
+bli53,http://192.168.0.113:12345/bilibili/22293663
 
-bli8,http://192.168.0.113:12345/bilibili/21570935
+bli76,http://192.168.0.113:12345/bilibili/142721
 
-bli99,http://192.168.0.113:12345/bilibili/23504532
+bli8,http://192.168.0.113:12345/bilibili/1024814
 
-bli54,http://192.168.0.113:12345/bilibili/22524461
+bli99,http://192.168.0.113:12345/bilibili/23207563
 
-bli77,http://192.168.0.113:12345/bilibili/5977175
+bli54,http://192.168.0.113:12345/bilibili/939703
 
-bli31,http://192.168.0.113:12345/bilibili/10676866
+bli31,http://192.168.0.113:12345/bilibili/21507503
 
-bli9,http://192.168.0.113:12345/bilibili/21448296
+bli77,http://192.168.0.113:12345/bilibili/23855709
 
-bli100,http://192.168.0.113:12345/bilibili/21715386
+bli9,http://192.168.0.113:12345/bilibili/3880983
 
-bli55,http://192.168.0.113:12345/bilibili/1402698
+bli100,http://192.168.0.113:12345/bilibili/14592882
 
-bli78,http://192.168.0.113:12345/bilibili/23417532
+bli55,http://192.168.0.113:12345/bilibili/23560601
 
-bli32,http://192.168.0.113:12345/bilibili/21070400
+bli32,http://192.168.0.113:12345/bilibili/22535653
 
-bli10,http://192.168.0.113:12345/bilibili/1717236
+bli78,http://192.168.0.113:12345/bilibili/21950604
 
-bli101,http://192.168.0.113:12345/bilibili/21236987
+bli10,http://192.168.0.113:12345/bilibili/22804740
+
+bli101,http://192.168.0.113:12345/bilibili/23187036
+
+bli33,http://192.168.0.113:12345/bilibili/10513567
 
 bli56,http://192.168.0.113:12345/bilibili/21145280
 
-bli79,http://192.168.0.113:12345/bilibili/8327830
+bli79,http://192.168.0.113:12345/bilibili/23514213
 
-bli33,http://192.168.0.113:12345/bilibili/22777909
+bli11,http://192.168.0.113:12345/bilibili/5226265
 
-bli11,http://192.168.0.113:12345/bilibili/22241668
+bli102,http://192.168.0.113:12345/bilibili/10782021
 
-bli102,http://192.168.0.113:12345/bilibili/23187036
+bli34,http://192.168.0.113:12345/bilibili/22777909
 
-bli57,http://192.168.0.113:12345/bilibili/22905626
+bli57,http://192.168.0.113:12345/bilibili/1528670
 
-bli80,http://192.168.0.113:12345/bilibili/23260826
+bli80,http://192.168.0.113:12345/bilibili/23715572
 
-bli34,http://192.168.0.113:12345/bilibili/23170738
+bli12,http://192.168.0.113:12345/bilibili/1717236
 
-bli12,http://192.168.0.113:12345/bilibili/22804740
+bli103,http://192.168.0.113:12345/bilibili/22455851
 
-bli103,http://192.168.0.113:12345/bilibili/23296730
+bli35,http://192.168.0.113:12345/bilibili/49132
 
-bli58,http://192.168.0.113:12345/bilibili/2686061
+bli58,http://192.168.0.113:12345/bilibili/23153930
 
-bli81,http://192.168.0.113:12345/bilibili/5490410
+bli81,http://192.168.0.113:12345/bilibili/3026533
 
-bli35,http://192.168.0.113:12345/bilibili/503320
+bli104,http://192.168.0.113:12345/bilibili/21715386
 
-bli13,http://192.168.0.113:12345/bilibili/5226265
+bli13,http://192.168.0.113:12345/bilibili/22241668
 
-bli104,http://192.168.0.113:12345/bilibili/10782021
+bli36,http://192.168.0.113:12345/bilibili/21588383
 
-bli82,http://192.168.0.113:12345/bilibili/3294844
+bli59,http://192.168.0.113:12345/bilibili/21751462
 
-bli59,http://192.168.0.113:12345/bilibili/8898006
+bli82,http://192.168.0.113:12345/bilibili/23260826
 
-bli36,http://192.168.0.113:12345/bilibili/21515763
+bli14,http://192.168.0.113:12345/bilibili/482946
 
-bli14,http://192.168.0.113:12345/bilibili/1654778
+bli105,http://192.168.0.113:12345/bilibili/22856272
 
-bli105,http://192.168.0.113:12345/bilibili/23207563
+bli37,http://192.168.0.113:12345/bilibili/23684726
 
-bli83,http://192.168.0.113:12345/bilibili/10997947
+bli60,http://192.168.0.113:12345/bilibili/2575775
 
-bli60,http://192.168.0.113:12345/bilibili/22693306
+bli83,http://192.168.0.113:12345/bilibili/23451101
 
-bli37,http://192.168.0.113:12345/bilibili/136843
+bli106,http://192.168.0.113:12345/bilibili/21613293
 
-bli106,http://192.168.0.113:12345/bilibili/22856272
+bli15,http://192.168.0.113:12345/bilibili/23666899
 
-bli15,http://192.168.0.113:12345/bilibili/23684726
+bli38,http://192.168.0.113:12345/bilibili/10676866
 
-bli61,http://192.168.0.113:12345/bilibili/472369
+bli61,http://192.168.0.113:12345/bilibili/21763462
 
-bli84,http://192.168.0.113:12345/bilibili/22903808
+bli16,http://192.168.0.113:12345/bilibili/11344693
 
-bli38,http://192.168.0.113:12345/bilibili/12811814
+bli84,http://192.168.0.113:12345/bilibili/6708089
 
-bli107,http://192.168.0.113:12345/bilibili/1215668
+bli39,http://192.168.0.113:12345/bilibili/8504386
 
-bli16,http://192.168.0.113:12345/bilibili/482946
+bli107,http://192.168.0.113:12345/bilibili/15014557
 
-bli62,http://192.168.0.113:12345/bilibili/2575775
+bli62,http://192.168.0.113:12345/bilibili/8898006
 
-bli85,http://192.168.0.113:12345/bilibili/889136
+bli85,http://192.168.0.113:12345/bilibili/22449693
 
-bli39,http://192.168.0.113:12345/bilibili/21588383
+bli17,http://192.168.0.113:12345/bilibili/22216183
 
-bli63,http://192.168.0.113:12345/bilibili/22785873
+bli108,http://192.168.0.113:12345/bilibili/327047
 
-bli17,http://192.168.0.113:12345/bilibili/23632400
+bli40,http://192.168.0.113:12345/bilibili/21515763
 
-bli108,http://192.168.0.113:12345/bilibili/23173045
+bli63,http://192.168.0.113:12345/bilibili/22524461
 
-bli86,http://192.168.0.113:12345/bilibili/23514213
+bli86,http://192.168.0.113:12345/bilibili/23859936
 
-bli40,http://192.168.0.113:12345/bilibili/4089143
+bli18,http://192.168.0.113:12345/bilibili/23170738
 
-bli18,http://192.168.0.113:12345/bilibili/82997
+bli41,http://192.168.0.113:12345/bilibili/23458621
 
-bli64,http://192.168.0.113:12345/bilibili/1528670
+bli109,http://192.168.0.113:12345/bilibili/1215668
 
-bli87,http://192.168.0.113:12345/bilibili/23490613
+bli64,http://192.168.0.113:12345/bilibili/3969440
 
-bli109,http://192.168.0.113:12345/bilibili/22455851
+bli87,http://192.168.0.113:12345/bilibili/21397541
 
-bli41,http://192.168.0.113:12345/bilibili/6166099
+bli19,http://192.168.0.113:12345/bilibili/5960549
 
-bli19,http://192.168.0.113:12345/bilibili/21008253
+bli110,http://192.168.0.113:12345/bilibili/22060267
 
-bli65,http://192.168.0.113:12345/bilibili/7129236
+bli42,http://192.168.0.113:12345/bilibili/12811814
 
-bli110,http://192.168.0.113:12345/bilibili/23132792
+bli65,http://192.168.0.113:12345/bilibili/22785873
 
-bli88,http://192.168.0.113:12345/bilibili/3155329
+bli88,http://192.168.0.113:12345/bilibili/23311381
 
-bli42,http://192.168.0.113:12345/bilibili/22535653
+bli20,http://192.168.0.113:12345/bilibili/21008253
 
-bli20,http://192.168.0.113:12345/bilibili/10513567
+bli43,http://192.168.0.113:12345/bilibili/9880910
 
-bli89,http://192.168.0.113:12345/bilibili/23451101
+bli66,http://192.168.0.113:12345/bilibili/22946948
 
-bli111,http://192.168.0.113:12345/bilibili/5292363
+bli89,http://192.168.0.113:12345/bilibili/13733104
 
-bli66,http://192.168.0.113:12345/bilibili/21763462
+bli21,http://192.168.0.113:12345/bilibili/21360358
 
-bli43,http://192.168.0.113:12345/bilibili/23458621
+bli44,http://192.168.0.113:12345/bilibili/6166099
 
-bli21,http://192.168.0.113:12345/bilibili/11344693
+bli67,http://192.168.0.113:12345/bilibili/3091485
 
-bli90,http://192.168.0.113:12345/bilibili/3570336
+bli90,http://192.168.0.113:12345/bilibili/23410275
 
-bli112,http://192.168.0.113:12345/bilibili/33014
+bli45,http://192.168.0.113:12345/bilibili/136843
 
-bli67,http://192.168.0.113:12345/bilibili/22293663
+bli22,http://192.168.0.113:12345/bilibili/82997
 
-bli44,http://192.168.0.113:12345/bilibili/8504386
-
-bli22,http://192.168.0.113:12345/bilibili/21507503
-
-bli68,http://192.168.0.113:12345/bilibili/22946948
+bli68,http://192.168.0.113:12345/bilibili/5490410
 
 bli91,http://192.168.0.113:12345/bilibili/9026499
-
-bli45,http://192.168.0.113:12345/bilibili/3315574
 
