@@ -12,18 +12,9 @@
             "name": "神马电影",
             "url": "https://www.smdyy.cc/api.php/app/"
         },
-       
         {
             "name": "913e影视",
             "url": "http://www.913e.net/xgapp.php/v1/"
-        },
-        {
-            "name": "CC影视",
-            "url": "https://ccbug.cc/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "DC影视",
-            "url": "http://chaorenbb.com/api.php/v1.vod"
         },
         {
             "name": "MX影视",
@@ -34,16 +25,8 @@
             "url": "https://www.qcsvip.com/mogai_api.php/v1.vod"
         },
         {
-            "name": "TVip视频",
-            "url": "http://app.tvip.cc/api.php/v1.vod"
-        },
-        {
             "name": "UU美剧",
             "url": "https://www.uumjw.com/api.php/v1.vod"
-        },
-        {
-            "name": "WSC",
-            "url": "https://vip.wscyun.com/api.php/v1.vod"
         },
         {
             "name": "vip影院",
@@ -58,20 +41,8 @@
             "url": "https://www.3ri.net/api.php/v1.vod"
         },
         {
-            "name": "乐云影视",
-            "url": "https://www.leyun.tv/api.php/v1.vod"
-        },
-        {
-            "name": "京广航",
-            "url": "https://www.jingguanhang.com/api.php/app/"
-        },
-        {
             "name": "优视影视",
             "url": "http://app.ysys.asia/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "余生影视",
-            "url": "http://yu.cuicanys.cn/lvdou_api.php/v1.vod"
         },
         {
             "name": "兔子窝",
@@ -84,22 +55,6 @@
         {
             "name": "创意影视",
             "url": "https://www.30dian.cn/api.php/v1.vod"
-        },
-        {
-            "name": "南府影视",
-            "url": "http://iapp.nfuxs.club/nfuxs.php/v1.vod"
-        },
-        {
-            "name": "双鹿影院",
-            "url": "http://cr.slidc.top/mubai_api.php/m2.vod"
-        },
-        {
-            "name": "大威电影",
-            "url": "http://vip.davdy.com/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "name": "大熊影视",
-            "url": "https://dxys2233.com/mogai_api.php/v1.vod"
         },
         {
             "name": "天天影视",
@@ -122,22 +77,6 @@
             "url": "https://www.naifei.org/api.php/v1.vod"
         },
         {
-            "name": "寒枫视频",
-            "url": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "小七影视",
-            "url": "http://ys.kd60.cn/api.php/app/"
-        },
-        {
-            "name": "小白动漫",
-            "url": "http://121.62.60.222:13579/xiaobai_api.php/v1.vod"
-        },
-        {
-            "name": "小白动漫2",
-            "url": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
-        },
-        {
             "name": "小软阁",
             "url": "https://jiku.vip/mogai_api.php/v1.vod"
         },
@@ -154,24 +93,12 @@
             "url": "https://app.okmedcos.com/api.php/v1.vod"
         },
         {
-            "name": "影阅阁",
-            "url": "http://221.236.18.12:665/api.php/v1.vod"
-        },
-        {
             "name": "快云影音",
             "url": "https://www.kuaiyunyy.com/api.php/app/"
         },
         {
             "name": "恒大影视",
             "url": "https://www.hdys.org/api.php/v1.vod"
-        },
-        {
-            "name": "懒猫影视",
-            "url": "https://lanmao.lanmaoymw.cn/api.php/v1.vod"
-        },
-        {
-            "name": "懒猫电影",
-            "url": "http://www.esellauto.com/ruifenglb_api.php/v1.vod"
         },
         {
             "name": "暖光影视",
@@ -202,10 +129,6 @@
             "url": "http://0hzy.cn:9990/mogai_api.php/v1.vod"
         },
         {
-            "name": "流星影院",
-            "url": "http://app.216bk.xyz/api.php/v1.vod"
-        },
-        {
             "name": "海胆影视",
             "url": "http://xf123.cc/api.php/app/"
         },
@@ -216,14 +139,6 @@
         {
             "name": "渔渔影视",
             "url": "http://luobo.yugenye.site/api.php/v1.vod"
-        },
-        {
-            "name": "火星人",
-            "url": "https://www.huoxing9.com/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "熊猫动漫",
-            "url": "http://dongman.k8aa.com/mogai_api.php/v1.vod"
         },
         {
             "name": "熊猫视频",
@@ -238,32 +153,8 @@
             "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
         },
         {
-            "name": "牛马TV",
-            "url": "http://niumatv.com/api.php/app/"
-        },
-        {
-            "name": "猪猪影院",
-            "url": "http://app.2zdyy.com/api.php/v1.vod"
-        },
-        {
-            "name": "玖肆资源",
-            "url": "http://android.jiusi.vip/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "琅琊影视",
-            "url": "http://fgyuu.top/lehailb_api.php/v1.vod"
-        },
-        {
-            "name": "痞痞狸",
-            "url": "http://app.ppli.xyz/api.php/v1.vod"
-        },
-        {
             "name": "百淘影视",
             "url": "http://ys.58g8.com/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "皮皮影视",
-            "url": "http://pp.ig4.cn/api.php/app/"
         },
         {
             "name": "益达影院",
@@ -272,18 +163,6 @@
         {
             "name": "看剧吧",
             "url": "http://app.ishen520.com/api.php/v1.vod"
-        },
-        {
-            "name": "看看影视",
-            "url": "http://kk.ccboke.top/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "name": "看看视频",
-            "url": "http://888.ccboke.top/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "name": "筋斗云",
-            "url": "https://tv.jindcloud.com/api.php/v1.vod"
         },
         {
             "name": "粉象视界",
@@ -298,24 +177,12 @@
             "url": "https://meijuchong.com/api.php/v1.vod"
         },
         {
-            "name": "耀协影视",
-            "url": "http://jx.yaoxieyy.xyz/api.php/v1.vod"
-        },
-        {
             "name": "艾特影视",
             "url": "https://www.aitee.cc/api.php/v1.vod"
         },
         {
             "name": "蒲公英视频",
             "url": "http://www.pgy1.top/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "name": "虎猫视频",
-            "url": "http://vv.humaoweb.com/mogai_api.php/gctvapi.vod"
-        },
-        {
-            "name": "虎猫视频2",
-            "url": "https://humaosp.com/mogai_api.php/v1.vod"
         },
         {
             "name": "躺平影视",
@@ -326,20 +193,8 @@
             "url": "http://dd88.icu:6080/xgapp.php/v2/"
         },
         {
-            "name": "追剧影院",
-            "url": "http://82.157.98.129/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "追剧达人",
-            "url": "https://www.zhuijudaren.com/mogai_api.php/v1.vod"
-        },
-        {
             "name": "钟特影视",
             "url": "https://app.zteys.com/api.php/v1.vod"
-        },
-        {
-            "name": "阿里云",
-            "url": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
         },
         {
             "name": "阿里影视",
@@ -350,136 +205,32 @@
             "url": "http://qqtvapp.com/xgapp.php/v1/"
         },
         {
-            "name": "零刻影院",
-            "url": "https://ys.ling00.cn/api.php/v1.vod"
-        },
-        {
             "name": "青苹果",
             "url": "http://www.aiyy.tv/xgapp.php/v1/"
-        },
-        {
-            "name": "青豆视频",
-            "url": "http://150.158.133.36:9904/qingdoujiekou.php/v1.vod"
-        },
-        {
-            "name": "风凌影视",
-            "url": "http://z1q1.com/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "飓风影视",
-            "url": "http://yidayy.top/lehailb_api.php/v1.vod"
-        },
-        {
-            "name": "飓风影视2",
-            "url": "http://jf.35ys.cc/lehailb_api.php/v1.vod"
-        },
-        {
-            "name": "饭后电影",
-            "url": "http://yinliub.cn/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "爱西西",
-            "url": "http://app.aixixi.vip/mogai_api.php/v1.vod"
         },
         {
             "name": "独播社",
             "url": "http://35ys.cc/api.php/v1.vod"
         },
         {
-            "name": "宅男影院",
-            "url": "http://www.sexyy.top/api.php/v1.vod"
-        },
-        {
-            "name": "段友影视2",
-            "url": "https://shangjihuoke.com/api.php/tv.vod"
-        },
-        {
-            "name": "任性看",
-            "url": "https://renxingkan.net/api.php/v1.vod"
-        },
-        {
             "name": "我爱跟剧",
             "url": "https://www.genmov.com/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "爱影视(239)",
-            "url": "https://www.hzlff.cn/api.php/v1.vod"
         },
         {
             "name": "黄河影视",
             "url": "http://i.ledu8.cn/api.php/v1.vod"
         },
         {
-            "name": "看看剧",
-            "url": "https://www.kankanju.cn/api.php/v1.vod"
-        },
-        {
-            "name": "皮皮动漫",
-            "url": "http://dm.muying.me/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "蓝风影视",
-            "url": "http://www.ruchuplus.cn/api.php/v1.vod"
-        },
-        {
             "name": "躺平影视",
             "url": "http://www.lltpys.com/xgapp.php/v1/"
-        },
-        {
-            "name": "视听星球",
-            "url": "http://zjyapijzys.shynwlkj.com/api.php/v1.vod"
-        },
-        {
-            "name": "免费影视",
-            "url": "http://111.229.120.180:88/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "辉哥影视",
-            "url": "https://app.y.hgyule8.com/api.php/v1.vod"
         },
         {
             "name": "苍蓝影视",
             "url": "https://vip.ruifenglb.com:4433/api.php/app/"
         },
         {
-            "name": "喵乐影视",
-            "url": "http://miaoleys.com/api.php/v1.vod"
-        },
-        {
-            "name": "哆啦咪影视",
-            "url": "http://yuenospro.miyuen.cn/qingdoujiekou.php/v1.vod"
-        },
-        {
-            "name": "速播影院",
-            "url": "http://subolg.com/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "飞捷影视",
-            "url": "https://fjkkk.cn/api.php/v1.vod"
-        },
-        {
-            "name": "Hi影视",
-            "url": "http://114.132.251.111:999/lvdou_api.php/v1.vod"
-        },
-        {
-            "name": "流星影视",
-            "url": "http://fkxs2233.com/mogai_api.php/v1.vod"
-        },
-        {
-            "name": "初心影视",
-            "url": "https://www.5znn.video/api.php/v1.vod"
-        },
-        {
-            "name": "HG影视",
-            "url": "http://bbq.1006.tk/api.php/v1.vod"
-        },
-        {
             "name": "4K狗影视",
             "url": "http://4kdog.tk/api.php/app/"
-        },
-        {
-            "name": "兄弟影视",
-            "url": "http://app.xdys.vip/mogai_api.php/v1.vod"
         }
     ],
     "caijizhan": [
